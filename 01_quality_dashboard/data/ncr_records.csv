@@ -1,0 +1,501 @@
+ncr_id,date_opened,date_closed,part_number,supplier_id,defect_type,severity,status,owner,root_cause_category,corrective_action_status
+NCR-1001,2024-02-23,,GPS-013,SUP-004,Incorrect Part Number,Minor,CAPA In Progress,QE-Brooks,Measurement Error,Complete
+NCR-1002,2023-03-13,2023-03-27,MMB-001,SUP-003,Electrical Short,Critical,Closed,QE-Nguyen,Training Gap,Not Started
+NCR-1003,2023-10-24,,LARM-015,SUP-010,Missing Hardware,Major,Under Review,QE-Brooks,,Complete
+NCR-1004,2024-09-03,,FAST-010,SUP-008,Electrical Short,Minor,RCA Complete,QE-Patel,Design Deficiency,In Progress
+NCR-1005,2024-01-19,2024-02-19,PROP-003,SUP-006,Solder Joint Failure,Major,Closed,QE-Brooks,Supplier Non-Conformance,Not Started
+NCR-1006,2024-03-26,2024-04-27,FAST-010,SUP-008,Thread Damage,Major,Closed,QE-Osei,Process Deviation,Complete
+NCR-1007,2023-12-12,2023-12-19,LARM-015,SUP-010,Solder Joint Failure,Major,Closed,QE-Torres,Measurement Error,Complete
+NCR-1008,2023-10-17,2023-10-29,MOTOR-004,SUP-007,Solder Joint Failure,Minor,Closed,QE-Brooks,Incoming Material,Not Started
+NCR-1009,2024-02-24,,MMB-001,SUP-003,Crack / Fracture,Major,CAPA In Progress,QE-Patel,Process Deviation,In Progress
+NCR-1010,2023-10-06,2023-10-18,MMB-001,SUP-003,Delamination,Major,Closed,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1011,2023-12-04,,WHAR-005,SUP-005,Contamination,Minor,Under Review,QE-Brooks,,Not Started
+NCR-1012,2023-05-28,,WING-007,SUP-006,Documentation Missing,Critical,Open,QE-Osei,,Not Started
+NCR-1013,2023-01-04,,MMB-001,SUP-003,Connector Misalignment,Major,CAPA In Progress,QE-Brooks,Incoming Material,Complete
+NCR-1014,2023-11-26,,LARM-015,SUP-010,Missing Hardware,Major,Open,QE-Brooks,,Not Started
+NCR-1015,2023-09-30,,BATT-008,SUP-009,Dimensional Out-of-Tolerance,Major,Containment Complete,QE-Torres,Design Deficiency,Complete
+NCR-1016,2023-07-10,2023-07-18,FRAME-012,SUP-001,Dimensional Out-of-Tolerance,Major,Closed,QE-Osei,Measurement Error,Complete
+NCR-1017,2023-02-05,2023-02-12,WHAR-005,SUP-005,Electrical Short,Minor,Closed,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1018,2024-01-07,,MMB-001,SUP-003,Wrong Material Cert,Critical,CAPA In Progress,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1019,2024-03-15,,MOTOR-004,SUP-007,Documentation Missing,Minor,Under Review,QE-Torres,,Not Started
+NCR-1020,2023-03-20,2023-04-02,FAST-010,SUP-008,Thread Damage,Minor,Closed,QE-Osei,Training Gap,Not Started
+NCR-1021,2024-09-30,2024-11-07,PYLD-009,SUP-001,Electrical Short,Minor,Closed,QE-Patel,Process Deviation,Not Started
+NCR-1022,2024-01-02,,PYLD-009,SUP-001,Contamination,Major,Containment Complete,QE-Osei,Process Deviation,Complete
+NCR-1023,2024-03-24,2024-04-19,GPS-013,SUP-004,Electrical Short,Major,Closed,QE-Nguyen,Measurement Error,Not Started
+NCR-1024,2024-03-02,,PROP-003,SUP-006,Contamination,Critical,Open,QE-Osei,,Not Started
+NCR-1025,2023-07-05,,THRM-011,SUP-005,Contamination,Major,CAPA In Progress,QE-Patel,Process Deviation,In Progress
+NCR-1026,2023-09-03,2023-09-06,PROP-003,SUP-006,Electrical Short,Major,Closed,QE-Patel,Design Deficiency,In Progress
+NCR-1027,2023-05-12,2023-05-30,PYLD-009,SUP-001,Solder Joint Failure,Major,Closed,QE-Brooks,Measurement Error,In Progress
+NCR-1028,2023-05-31,2023-06-19,ESC-002,SUP-004,Missing Hardware,Critical,Closed,QE-Brooks,Training Gap,Not Started
+NCR-1029,2023-08-17,,MMB-001,SUP-003,Documentation Missing,Major,Under Review,QE-Brooks,,In Progress
+NCR-1030,2024-09-17,,MMB-001,SUP-003,Crack / Fracture,Minor,RCA Complete,QE-Patel,Incoming Material,Not Started
+NCR-1031,2023-07-30,2023-09-07,LARM-015,SUP-010,Crack / Fracture,Major,Closed,QE-Osei,Incoming Material,Complete
+NCR-1032,2024-07-27,,ESC-002,SUP-004,Electrical Short,Major,Open,QE-Patel,,Not Started
+NCR-1033,2023-03-20,2023-04-01,PROP-003,SUP-006,Insulation Damage,Minor,Closed,QE-Osei,Process Deviation,Complete
+NCR-1034,2024-07-21,,WING-007,SUP-006,Thread Damage,Minor,Open,QE-Patel,,Not Started
+NCR-1035,2023-12-25,,WING-007,SUP-006,Delamination,Critical,CAPA In Progress,QE-Osei,Measurement Error,Not Started
+NCR-1036,2024-09-06,2024-10-11,FRAME-012,SUP-001,Crack / Fracture,Minor,Closed,QE-Torres,Design Deficiency,In Progress
+NCR-1037,2023-12-04,,GPS-013,SUP-004,Documentation Missing,Minor,Open,QE-Torres,,Not Started
+NCR-1038,2024-06-19,,FRAME-012,SUP-001,Incorrect Part Number,Minor,Open,QE-Brooks,,Not Started
+NCR-1039,2024-04-26,2024-05-08,ESC-002,SUP-004,Delamination,Major,Closed,QE-Torres,Training Gap,Not Started
+NCR-1040,2024-12-24,,FC-014,SUP-004,Crack / Fracture,Major,CAPA In Progress,QE-Nguyen,Measurement Error,Not Started
+NCR-1041,2024-04-06,,MOTOR-004,SUP-007,Crack / Fracture,Major,Open,QE-Osei,,Not Started
+NCR-1042,2024-12-10,,PROP-003,SUP-006,Crack / Fracture,Minor,RCA Complete,QE-Torres,Design Deficiency,Not Started
+NCR-1043,2023-07-07,2023-08-04,PROP-003,SUP-006,Electrical Short,Minor,Closed,QE-Osei,Tooling Wear,In Progress
+NCR-1044,2024-06-17,,FAST-010,SUP-008,Solder Joint Failure,Major,Open,QE-Nguyen,,Not Started
+NCR-1045,2024-04-30,2024-05-25,WING-007,SUP-006,Crack / Fracture,Minor,Closed,QE-Torres,Process Deviation,Complete
+NCR-1046,2023-06-04,,LARM-015,SUP-010,Insulation Damage,Major,Containment Complete,QE-Torres,Incoming Material,Complete
+NCR-1047,2024-02-06,2024-03-07,FRAME-012,SUP-001,Solder Joint Failure,Major,Closed,QE-Brooks,Design Deficiency,Complete
+NCR-1048,2023-08-06,2023-08-26,BATT-008,SUP-009,Solder Joint Failure,Major,Closed,QE-Patel,Incoming Material,In Progress
+NCR-1049,2023-06-15,2023-07-06,PROP-003,SUP-006,Documentation Missing,Major,Closed,QE-Patel,Training Gap,Complete
+NCR-1050,2024-03-14,,MMB-001,SUP-003,Crack / Fracture,Major,RCA Complete,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1051,2023-12-21,2024-01-22,MOTOR-004,SUP-007,Delamination,Major,Closed,QE-Torres,Tooling Wear,In Progress
+NCR-1052,2024-08-27,2024-09-11,GPS-013,SUP-004,Missing Hardware,Major,Closed,QE-Osei,Training Gap,Complete
+NCR-1053,2024-06-01,2024-06-27,LARM-015,SUP-010,Incorrect Part Number,Minor,Closed,QE-Torres,Design Deficiency,Complete
+NCR-1054,2023-06-15,2023-06-20,WING-007,SUP-006,Solder Joint Failure,Minor,Closed,QE-Patel,Measurement Error,Not Started
+NCR-1055,2024-02-01,2024-03-04,FAST-010,SUP-008,Dimensional Out-of-Tolerance,Minor,Closed,QE-Nguyen,Supplier Non-Conformance,Complete
+NCR-1056,2023-11-30,2024-01-03,FAST-010,SUP-008,Crack / Fracture,Minor,Closed,QE-Patel,Incoming Material,Not Started
+NCR-1057,2023-05-03,2023-05-31,PROP-003,SUP-006,Missing Hardware,Minor,Closed,QE-Patel,Process Deviation,Complete
+NCR-1058,2024-06-29,2024-07-16,BCON-006,SUP-004,Insulation Damage,Major,Closed,QE-Osei,Measurement Error,Not Started
+NCR-1059,2023-09-28,2023-10-11,ESC-002,SUP-004,Solder Joint Failure,Major,Closed,QE-Brooks,Design Deficiency,In Progress
+NCR-1060,2024-02-12,,WHAR-005,SUP-005,Insulation Damage,Minor,RCA Complete,QE-Osei,Design Deficiency,In Progress
+NCR-1061,2023-09-11,2023-10-18,WHAR-005,SUP-005,Thread Damage,Minor,Closed,QE-Patel,Design Deficiency,In Progress
+NCR-1062,2024-06-06,2024-07-12,WHAR-005,SUP-005,Thread Damage,Major,Closed,QE-Torres,Design Deficiency,Complete
+NCR-1063,2023-10-13,,FAST-010,SUP-008,Wrong Material Cert,Major,Open,QE-Nguyen,,Not Started
+NCR-1064,2023-09-19,2023-10-06,WHAR-005,SUP-005,Dimensional Out-of-Tolerance,Major,Closed,QE-Nguyen,Incoming Material,In Progress
+NCR-1065,2024-10-24,,FC-014,SUP-004,Electrical Short,Minor,Under Review,QE-Nguyen,,In Progress
+NCR-1066,2024-03-06,2024-04-07,GPS-013,SUP-004,Contamination,Minor,Closed,QE-Patel,Tooling Wear,In Progress
+NCR-1067,2024-02-27,,GPS-013,SUP-004,Incorrect Part Number,Major,Under Review,QE-Osei,,In Progress
+NCR-1068,2023-06-01,2023-06-25,WING-007,SUP-006,Insulation Damage,Minor,Closed,QE-Torres,Process Deviation,Complete
+NCR-1069,2023-11-26,,GPS-013,SUP-004,Insulation Damage,Major,RCA Complete,QE-Torres,Process Deviation,In Progress
+NCR-1070,2023-12-27,2024-01-31,FRAME-012,SUP-001,Solder Joint Failure,Major,Closed,QE-Nguyen,Process Deviation,Complete
+NCR-1071,2024-09-04,,ESC-002,SUP-004,Contamination,Major,RCA Complete,QE-Nguyen,Design Deficiency,Not Started
+NCR-1072,2023-05-13,2023-06-15,WING-007,SUP-006,Missing Hardware,Major,Closed,QE-Nguyen,Incoming Material,In Progress
+NCR-1073,2024-06-28,,PYLD-009,SUP-001,Crack / Fracture,Major,CAPA In Progress,QE-Nguyen,Training Gap,Complete
+NCR-1074,2023-12-16,,PYLD-009,SUP-001,Contamination,Major,Containment Complete,QE-Brooks,Incoming Material,Complete
+NCR-1075,2023-03-11,,WING-007,SUP-006,Delamination,Minor,Containment Complete,QE-Osei,Design Deficiency,Complete
+NCR-1076,2023-12-27,2024-02-06,PROP-003,SUP-006,Wrong Material Cert,Major,Closed,QE-Nguyen,Training Gap,Complete
+NCR-1077,2024-11-18,2024-11-28,LARM-015,SUP-010,Surface Finish,Critical,Closed,QE-Nguyen,Incoming Material,Not Started
+NCR-1078,2023-10-15,,WING-007,SUP-006,Electrical Short,Major,Under Review,QE-Torres,,Complete
+NCR-1079,2023-06-29,,FRAME-012,SUP-001,Electrical Short,Major,CAPA In Progress,QE-Torres,Process Deviation,Complete
+NCR-1080,2024-03-25,2024-04-01,MMB-001,SUP-003,Documentation Missing,Minor,Closed,QE-Osei,Design Deficiency,Complete
+NCR-1081,2023-05-19,,BATT-008,SUP-009,Contamination,Major,Containment Complete,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1082,2023-12-26,,PROP-003,SUP-006,Missing Hardware,Major,RCA Complete,QE-Patel,Tooling Wear,Not Started
+NCR-1083,2024-12-08,,MOTOR-004,SUP-007,Incorrect Part Number,Minor,RCA Complete,QE-Torres,Tooling Wear,Not Started
+NCR-1084,2023-06-30,,PYLD-009,SUP-001,Missing Hardware,Major,CAPA In Progress,QE-Nguyen,Incoming Material,Complete
+NCR-1085,2023-11-06,2023-12-04,PROP-003,SUP-006,Dimensional Out-of-Tolerance,Major,Closed,QE-Osei,Training Gap,In Progress
+NCR-1086,2023-04-29,2023-06-04,LARM-015,SUP-010,Missing Hardware,Minor,Closed,QE-Nguyen,Process Deviation,In Progress
+NCR-1087,2023-04-04,,MOTOR-004,SUP-007,Electrical Short,Major,Under Review,QE-Nguyen,,Complete
+NCR-1088,2024-12-01,,PROP-003,SUP-006,Electrical Short,Minor,CAPA In Progress,QE-Nguyen,Tooling Wear,In Progress
+NCR-1089,2024-08-16,,FAST-010,SUP-008,Delamination,Major,RCA Complete,QE-Osei,Process Deviation,Complete
+NCR-1090,2024-04-16,,BATT-008,SUP-009,Crack / Fracture,Major,Open,QE-Nguyen,,Not Started
+NCR-1091,2023-02-08,2023-03-07,LARM-015,SUP-010,Dimensional Out-of-Tolerance,Minor,Closed,QE-Patel,Design Deficiency,Not Started
+NCR-1092,2023-02-03,,FAST-010,SUP-008,Dimensional Out-of-Tolerance,Major,Open,QE-Patel,,Not Started
+NCR-1093,2023-11-23,2023-12-20,PROP-003,SUP-006,Delamination,Major,Closed,QE-Torres,Measurement Error,Complete
+NCR-1094,2023-07-31,,MOTOR-004,SUP-007,Documentation Missing,Major,CAPA In Progress,QE-Nguyen,Measurement Error,In Progress
+NCR-1095,2024-04-30,2024-05-31,WING-007,SUP-006,Dimensional Out-of-Tolerance,Minor,Closed,QE-Patel,Process Deviation,Not Started
+NCR-1096,2023-02-14,2023-02-24,ESC-002,SUP-004,Wrong Material Cert,Critical,Closed,QE-Patel,Measurement Error,Complete
+NCR-1097,2024-04-12,,ESC-002,SUP-004,Contamination,Major,RCA Complete,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1098,2023-08-17,2023-09-30,FRAME-012,SUP-001,Electrical Short,Minor,Closed,QE-Patel,Incoming Material,Complete
+NCR-1099,2024-01-02,,WING-007,SUP-006,Insulation Damage,Major,CAPA In Progress,QE-Torres,Tooling Wear,Not Started
+NCR-1100,2024-06-03,,LARM-015,SUP-010,Thread Damage,Minor,Containment Complete,QE-Nguyen,Process Deviation,In Progress
+NCR-1101,2024-03-18,,FC-014,SUP-004,Solder Joint Failure,Minor,Under Review,QE-Torres,,Complete
+NCR-1102,2024-02-26,,BATT-008,SUP-009,Delamination,Major,RCA Complete,QE-Torres,Process Deviation,Not Started
+NCR-1103,2024-10-10,,THRM-011,SUP-005,Corrosion,Major,RCA Complete,QE-Nguyen,Tooling Wear,In Progress
+NCR-1104,2023-10-23,2023-10-31,FC-014,SUP-004,Documentation Missing,Major,Closed,QE-Torres,Tooling Wear,Not Started
+NCR-1105,2024-08-04,,WING-007,SUP-006,Dimensional Out-of-Tolerance,Major,Under Review,QE-Osei,,Complete
+NCR-1106,2024-01-06,,FRAME-012,SUP-001,Corrosion,Minor,CAPA In Progress,QE-Patel,Training Gap,Complete
+NCR-1107,2023-05-26,2023-06-05,PROP-003,SUP-006,Surface Finish,Critical,Closed,QE-Brooks,Incoming Material,Not Started
+NCR-1108,2024-11-24,,LARM-015,SUP-010,Solder Joint Failure,Minor,CAPA In Progress,QE-Patel,Training Gap,In Progress
+NCR-1109,2024-11-03,,LARM-015,SUP-010,Contamination,Major,Open,QE-Torres,,Not Started
+NCR-1110,2024-12-18,,BATT-008,SUP-009,Incorrect Part Number,Major,Open,QE-Torres,,Not Started
+NCR-1111,2024-06-19,2024-06-28,BCON-006,SUP-004,Thread Damage,Minor,Closed,QE-Brooks,Design Deficiency,Not Started
+NCR-1112,2023-10-05,,FAST-010,SUP-008,Dimensional Out-of-Tolerance,Critical,Open,QE-Brooks,,Not Started
+NCR-1113,2024-06-16,,PROP-003,SUP-006,Missing Hardware,Major,Under Review,QE-Patel,,Complete
+NCR-1114,2023-07-22,,WING-007,SUP-006,Crack / Fracture,Major,CAPA In Progress,QE-Patel,Training Gap,Not Started
+NCR-1115,2024-02-24,,ESC-002,SUP-004,Electrical Short,Minor,Under Review,QE-Brooks,,Complete
+NCR-1116,2024-03-23,2024-03-29,PYLD-009,SUP-001,Thread Damage,Minor,Closed,QE-Osei,Training Gap,Not Started
+NCR-1117,2024-10-27,,FAST-010,SUP-008,Thread Damage,Minor,Under Review,QE-Torres,,In Progress
+NCR-1118,2023-05-30,,PYLD-009,SUP-001,Documentation Missing,Major,Under Review,QE-Nguyen,,Not Started
+NCR-1119,2023-06-14,2023-07-13,MOTOR-004,SUP-007,Crack / Fracture,Major,Closed,QE-Brooks,Tooling Wear,Not Started
+NCR-1120,2024-03-19,,PYLD-009,SUP-001,Dimensional Out-of-Tolerance,Major,RCA Complete,QE-Brooks,Tooling Wear,Complete
+NCR-1121,2023-02-18,2023-03-27,FRAME-012,SUP-001,Solder Joint Failure,Major,Closed,QE-Brooks,Process Deviation,Not Started
+NCR-1122,2024-01-27,,WHAR-005,SUP-005,Incorrect Part Number,Critical,Open,QE-Patel,,Not Started
+NCR-1123,2024-04-03,,MMB-001,SUP-003,Electrical Short,Minor,Open,QE-Brooks,,Not Started
+NCR-1124,2024-06-04,,LARM-015,SUP-010,Delamination,Major,Open,QE-Torres,,Not Started
+NCR-1125,2024-11-29,2025-01-08,BATT-008,SUP-009,Surface Finish,Minor,Closed,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1126,2023-09-03,,BATT-008,SUP-009,Insulation Damage,Major,Containment Complete,QE-Torres,Process Deviation,Not Started
+NCR-1127,2024-09-16,,GPS-013,SUP-004,Crack / Fracture,Major,Open,QE-Patel,,Not Started
+NCR-1128,2024-02-22,2024-03-30,PYLD-009,SUP-001,Surface Finish,Major,Closed,QE-Brooks,Process Deviation,In Progress
+NCR-1129,2023-05-17,,PYLD-009,SUP-001,Connector Misalignment,Minor,Under Review,QE-Osei,,In Progress
+NCR-1130,2023-02-07,,GPS-013,SUP-004,Connector Misalignment,Major,CAPA In Progress,QE-Nguyen,Supplier Non-Conformance,Complete
+NCR-1131,2023-02-11,2023-03-25,FRAME-012,SUP-001,Surface Finish,Major,Closed,QE-Torres,Incoming Material,In Progress
+NCR-1132,2024-09-26,2024-11-09,MMB-001,SUP-003,Surface Finish,Minor,Closed,QE-Osei,Measurement Error,Not Started
+NCR-1133,2023-03-03,2023-03-13,PROP-003,SUP-006,Thread Damage,Major,Closed,QE-Brooks,Measurement Error,Not Started
+NCR-1134,2024-07-11,,PROP-003,SUP-006,Thread Damage,Major,Open,QE-Patel,,Not Started
+NCR-1135,2024-11-11,,FRAME-012,SUP-001,Corrosion,Major,Open,QE-Patel,,Not Started
+NCR-1136,2024-09-03,2024-10-16,THRM-011,SUP-005,Electrical Short,Critical,Closed,QE-Patel,Design Deficiency,In Progress
+NCR-1137,2023-11-16,,MOTOR-004,SUP-007,Documentation Missing,Critical,Open,QE-Brooks,,Not Started
+NCR-1138,2024-04-02,,MOTOR-004,SUP-007,Dimensional Out-of-Tolerance,Major,Open,QE-Torres,,Not Started
+NCR-1139,2024-10-10,2024-11-17,LARM-015,SUP-010,Wrong Material Cert,Major,Closed,QE-Patel,Training Gap,Not Started
+NCR-1140,2023-09-11,2023-09-16,MOTOR-004,SUP-007,Contamination,Minor,Closed,QE-Patel,Process Deviation,Complete
+NCR-1141,2024-09-05,,FRAME-012,SUP-001,Contamination,Critical,CAPA In Progress,QE-Patel,Process Deviation,Complete
+NCR-1142,2024-12-18,2025-01-30,MOTOR-004,SUP-007,Delamination,Major,Closed,QE-Nguyen,Training Gap,Complete
+NCR-1143,2023-12-15,,MOTOR-004,SUP-007,Electrical Short,Major,RCA Complete,QE-Torres,Measurement Error,Complete
+NCR-1144,2024-07-05,,WING-007,SUP-006,Thread Damage,Minor,Containment Complete,QE-Osei,Training Gap,Not Started
+NCR-1145,2023-05-03,2023-05-15,FAST-010,SUP-008,Corrosion,Major,Closed,QE-Osei,Supplier Non-Conformance,In Progress
+NCR-1146,2024-10-28,,MOTOR-004,SUP-007,Corrosion,Major,Under Review,QE-Nguyen,,Complete
+NCR-1147,2023-01-06,2023-01-15,PROP-003,SUP-006,Surface Finish,Major,Closed,QE-Brooks,Measurement Error,Not Started
+NCR-1148,2023-07-29,,FAST-010,SUP-008,Corrosion,Major,Under Review,QE-Torres,,Complete
+NCR-1149,2023-11-17,2023-12-22,WING-007,SUP-006,Documentation Missing,Critical,Closed,QE-Nguyen,Measurement Error,Complete
+NCR-1150,2024-12-27,2025-01-11,THRM-011,SUP-005,Solder Joint Failure,Critical,Closed,QE-Nguyen,Process Deviation,In Progress
+NCR-1151,2024-05-12,,BCON-006,SUP-004,Electrical Short,Minor,CAPA In Progress,QE-Torres,Tooling Wear,Not Started
+NCR-1152,2023-09-20,2023-11-03,FRAME-012,SUP-001,Electrical Short,Major,Closed,QE-Brooks,Training Gap,Complete
+NCR-1153,2024-08-06,,FC-014,SUP-004,Documentation Missing,Minor,Under Review,QE-Brooks,,In Progress
+NCR-1154,2024-12-15,,MOTOR-004,SUP-007,Missing Hardware,Major,Open,QE-Brooks,,Not Started
+NCR-1155,2024-01-05,2024-01-10,FC-014,SUP-004,Thread Damage,Major,Closed,QE-Patel,Tooling Wear,In Progress
+NCR-1156,2023-10-28,,THRM-011,SUP-005,Wrong Material Cert,Minor,CAPA In Progress,QE-Patel,Measurement Error,Not Started
+NCR-1157,2023-06-01,,THRM-011,SUP-005,Surface Finish,Critical,CAPA In Progress,QE-Nguyen,Design Deficiency,Complete
+NCR-1158,2023-02-06,2023-03-01,MOTOR-004,SUP-007,Contamination,Minor,Closed,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1159,2024-12-16,,FC-014,SUP-004,Crack / Fracture,Major,CAPA In Progress,QE-Patel,Incoming Material,Complete
+NCR-1160,2023-01-26,2023-01-29,FAST-010,SUP-008,Corrosion,Major,Closed,QE-Patel,Incoming Material,In Progress
+NCR-1161,2023-04-10,,PROP-003,SUP-006,Contamination,Minor,RCA Complete,QE-Osei,Process Deviation,Not Started
+NCR-1162,2024-01-31,,BCON-006,SUP-004,Corrosion,Major,Open,QE-Patel,,Not Started
+NCR-1163,2023-10-03,2023-10-19,MMB-001,SUP-003,Crack / Fracture,Minor,Closed,QE-Osei,Design Deficiency,In Progress
+NCR-1164,2024-04-08,,ESC-002,SUP-004,Electrical Short,Major,Under Review,QE-Torres,,Complete
+NCR-1165,2024-08-14,2024-09-20,GPS-013,SUP-004,Documentation Missing,Minor,Closed,QE-Nguyen,Measurement Error,In Progress
+NCR-1166,2023-04-28,2023-05-15,MOTOR-004,SUP-007,Missing Hardware,Minor,Closed,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1167,2024-09-04,,THRM-011,SUP-005,Thread Damage,Major,Open,QE-Brooks,,Not Started
+NCR-1168,2024-07-06,2024-07-30,PROP-003,SUP-006,Corrosion,Major,Closed,QE-Patel,Incoming Material,Complete
+NCR-1169,2024-01-12,2024-02-07,FRAME-012,SUP-001,Incorrect Part Number,Major,Closed,QE-Patel,Design Deficiency,Not Started
+NCR-1170,2024-01-26,,GPS-013,SUP-004,Contamination,Minor,Open,QE-Patel,,Not Started
+NCR-1171,2024-05-29,,GPS-013,SUP-004,Incorrect Part Number,Major,CAPA In Progress,QE-Torres,Measurement Error,Complete
+NCR-1172,2023-10-03,,ESC-002,SUP-004,Delamination,Minor,Containment Complete,QE-Osei,Process Deviation,Not Started
+NCR-1173,2023-05-31,2023-06-30,BATT-008,SUP-009,Solder Joint Failure,Major,Closed,QE-Patel,Design Deficiency,In Progress
+NCR-1174,2023-05-08,,MOTOR-004,SUP-007,Electrical Short,Major,RCA Complete,QE-Osei,Tooling Wear,Not Started
+NCR-1175,2024-02-09,,LARM-015,SUP-010,Documentation Missing,Major,RCA Complete,QE-Patel,Measurement Error,Complete
+NCR-1176,2024-05-12,,THRM-011,SUP-005,Solder Joint Failure,Minor,Open,QE-Patel,,Not Started
+NCR-1177,2023-02-01,2023-02-08,MOTOR-004,SUP-007,Surface Finish,Minor,Closed,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1178,2024-04-08,,FRAME-012,SUP-001,Contamination,Major,Under Review,QE-Torres,,Complete
+NCR-1179,2023-03-21,2023-04-12,THRM-011,SUP-005,Contamination,Major,Closed,QE-Osei,Process Deviation,Complete
+NCR-1180,2024-05-06,2024-05-21,FAST-010,SUP-008,Insulation Damage,Minor,Closed,QE-Patel,Supplier Non-Conformance,In Progress
+NCR-1181,2023-11-25,,ESC-002,SUP-004,Wrong Material Cert,Major,Open,QE-Nguyen,,Not Started
+NCR-1182,2023-06-07,,GPS-013,SUP-004,Contamination,Major,CAPA In Progress,QE-Patel,Training Gap,Not Started
+NCR-1183,2023-12-05,,GPS-013,SUP-004,Connector Misalignment,Critical,Under Review,QE-Brooks,,Complete
+NCR-1184,2024-12-28,2024-12-31,ESC-002,SUP-004,Documentation Missing,Major,Closed,QE-Brooks,Incoming Material,Complete
+NCR-1185,2023-10-06,,ESC-002,SUP-004,Delamination,Minor,Under Review,QE-Osei,,Not Started
+NCR-1186,2024-03-06,2024-03-26,WING-007,SUP-006,Connector Misalignment,Major,Closed,QE-Osei,Supplier Non-Conformance,Not Started
+NCR-1187,2023-07-19,,MMB-001,SUP-003,Solder Joint Failure,Major,RCA Complete,QE-Brooks,Incoming Material,Complete
+NCR-1188,2023-04-21,2023-04-25,BCON-006,SUP-004,Electrical Short,Critical,Closed,QE-Nguyen,Process Deviation,Complete
+NCR-1189,2023-07-23,,MMB-001,SUP-003,Thread Damage,Minor,Containment Complete,QE-Patel,Training Gap,Not Started
+NCR-1190,2023-12-27,,ESC-002,SUP-004,Wrong Material Cert,Major,Containment Complete,QE-Osei,Tooling Wear,Not Started
+NCR-1191,2024-02-21,,BCON-006,SUP-004,Documentation Missing,Minor,Open,QE-Patel,,Not Started
+NCR-1192,2023-07-17,2023-08-28,WING-007,SUP-006,Solder Joint Failure,Minor,Closed,QE-Patel,Process Deviation,In Progress
+NCR-1193,2023-07-04,,MOTOR-004,SUP-007,Wrong Material Cert,Major,Containment Complete,QE-Torres,Training Gap,Not Started
+NCR-1194,2023-06-04,2023-06-15,GPS-013,SUP-004,Solder Joint Failure,Minor,Closed,QE-Patel,Tooling Wear,In Progress
+NCR-1195,2024-07-12,,WING-007,SUP-006,Documentation Missing,Critical,Containment Complete,QE-Brooks,Process Deviation,Not Started
+NCR-1196,2023-01-02,2023-01-05,PYLD-009,SUP-001,Solder Joint Failure,Major,Closed,QE-Osei,Measurement Error,In Progress
+NCR-1197,2024-08-24,2024-10-05,FAST-010,SUP-008,Crack / Fracture,Minor,Closed,QE-Osei,Supplier Non-Conformance,In Progress
+NCR-1198,2023-05-15,2023-06-25,FRAME-012,SUP-001,Surface Finish,Minor,Closed,QE-Osei,Design Deficiency,Complete
+NCR-1199,2024-02-04,2024-03-16,LARM-015,SUP-010,Wrong Material Cert,Critical,Closed,QE-Osei,Training Gap,In Progress
+NCR-1200,2023-09-25,,WING-007,SUP-006,Wrong Material Cert,Major,Under Review,QE-Nguyen,,In Progress
+NCR-1201,2024-01-09,,ESC-002,SUP-004,Dimensional Out-of-Tolerance,Major,Open,QE-Nguyen,,Not Started
+NCR-1202,2024-12-15,,THRM-011,SUP-005,Delamination,Major,RCA Complete,QE-Brooks,Supplier Non-Conformance,In Progress
+NCR-1203,2024-12-03,,FRAME-012,SUP-001,Delamination,Major,CAPA In Progress,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1204,2023-01-16,2023-02-13,PYLD-009,SUP-001,Insulation Damage,Major,Closed,QE-Torres,Training Gap,Complete
+NCR-1205,2023-01-23,,ESC-002,SUP-004,Surface Finish,Major,Under Review,QE-Osei,,Complete
+NCR-1206,2023-02-13,,THRM-011,SUP-005,Connector Misalignment,Major,Under Review,QE-Torres,,In Progress
+NCR-1207,2023-09-25,2023-10-21,WHAR-005,SUP-005,Incorrect Part Number,Major,Closed,QE-Patel,Supplier Non-Conformance,Complete
+NCR-1208,2024-11-19,2024-12-29,ESC-002,SUP-004,Dimensional Out-of-Tolerance,Minor,Closed,QE-Patel,Tooling Wear,In Progress
+NCR-1209,2024-10-25,2024-11-03,MMB-001,SUP-003,Incorrect Part Number,Major,Closed,QE-Torres,Process Deviation,Complete
+NCR-1210,2024-04-03,2024-04-26,MOTOR-004,SUP-007,Documentation Missing,Major,Closed,QE-Brooks,Tooling Wear,Complete
+NCR-1211,2023-03-25,,GPS-013,SUP-004,Missing Hardware,Major,Under Review,QE-Torres,,Complete
+NCR-1212,2024-06-11,,BCON-006,SUP-004,Corrosion,Major,Containment Complete,QE-Nguyen,Process Deviation,In Progress
+NCR-1213,2023-03-28,,MMB-001,SUP-003,Crack / Fracture,Minor,CAPA In Progress,QE-Nguyen,Design Deficiency,Not Started
+NCR-1214,2024-07-04,2024-07-07,FAST-010,SUP-008,Insulation Damage,Minor,Closed,QE-Patel,Measurement Error,Complete
+NCR-1215,2023-08-11,,FAST-010,SUP-008,Documentation Missing,Minor,Under Review,QE-Torres,,Not Started
+NCR-1216,2024-09-13,,MOTOR-004,SUP-007,Electrical Short,Major,Under Review,QE-Torres,,Not Started
+NCR-1217,2023-09-08,2023-10-23,MOTOR-004,SUP-007,Electrical Short,Major,Closed,QE-Patel,Supplier Non-Conformance,In Progress
+NCR-1218,2024-08-02,,MOTOR-004,SUP-007,Solder Joint Failure,Minor,Open,QE-Patel,,Not Started
+NCR-1219,2023-06-24,,MOTOR-004,SUP-007,Documentation Missing,Major,Containment Complete,QE-Torres,Design Deficiency,Complete
+NCR-1220,2023-03-12,,PYLD-009,SUP-001,Electrical Short,Minor,Open,QE-Torres,,Not Started
+NCR-1221,2023-10-23,2023-11-18,PYLD-009,SUP-001,Missing Hardware,Minor,Closed,QE-Patel,Process Deviation,Complete
+NCR-1222,2024-11-18,,FC-014,SUP-004,Electrical Short,Minor,CAPA In Progress,QE-Torres,Measurement Error,In Progress
+NCR-1223,2024-12-12,,BATT-008,SUP-009,Corrosion,Critical,Under Review,QE-Nguyen,,In Progress
+NCR-1224,2023-07-06,,LARM-015,SUP-010,Connector Misalignment,Critical,Open,QE-Brooks,,Not Started
+NCR-1225,2023-01-25,2023-03-09,PROP-003,SUP-006,Incorrect Part Number,Major,Closed,QE-Brooks,Tooling Wear,Complete
+NCR-1226,2023-05-18,2023-06-14,BCON-006,SUP-004,Dimensional Out-of-Tolerance,Major,Closed,QE-Patel,Measurement Error,Complete
+NCR-1227,2024-02-11,2024-02-21,LARM-015,SUP-010,Wrong Material Cert,Minor,Closed,QE-Brooks,Training Gap,In Progress
+NCR-1228,2024-06-16,,WHAR-005,SUP-005,Thread Damage,Minor,Open,QE-Osei,,Not Started
+NCR-1229,2024-09-15,,LARM-015,SUP-010,Insulation Damage,Critical,Open,QE-Brooks,,Not Started
+NCR-1230,2023-10-01,2023-10-27,BCON-006,SUP-004,Insulation Damage,Critical,Closed,QE-Torres,Design Deficiency,Complete
+NCR-1231,2023-07-30,2023-08-14,MOTOR-004,SUP-007,Insulation Damage,Major,Closed,QE-Patel,Training Gap,Not Started
+NCR-1232,2024-12-13,2025-01-25,ESC-002,SUP-004,Surface Finish,Major,Closed,QE-Torres,Measurement Error,Not Started
+NCR-1233,2023-02-27,2023-03-23,THRM-011,SUP-005,Documentation Missing,Major,Closed,QE-Torres,Incoming Material,Not Started
+NCR-1234,2024-08-19,,BATT-008,SUP-009,Connector Misalignment,Critical,CAPA In Progress,QE-Brooks,Design Deficiency,Not Started
+NCR-1235,2023-04-03,2023-05-14,BATT-008,SUP-009,Missing Hardware,Minor,Closed,QE-Nguyen,Design Deficiency,Complete
+NCR-1236,2024-07-03,2024-07-15,PROP-003,SUP-006,Thread Damage,Minor,Closed,QE-Torres,Incoming Material,Complete
+NCR-1237,2024-05-19,,MOTOR-004,SUP-007,Solder Joint Failure,Minor,Under Review,QE-Patel,,In Progress
+NCR-1238,2024-11-25,2024-12-07,PROP-003,SUP-006,Electrical Short,Critical,Closed,QE-Patel,Training Gap,Not Started
+NCR-1239,2024-11-09,,FRAME-012,SUP-001,Wrong Material Cert,Major,CAPA In Progress,QE-Brooks,Supplier Non-Conformance,In Progress
+NCR-1240,2023-10-17,2023-11-08,FAST-010,SUP-008,Crack / Fracture,Critical,Closed,QE-Osei,Supplier Non-Conformance,Not Started
+NCR-1241,2024-07-01,,BCON-006,SUP-004,Delamination,Minor,Open,QE-Nguyen,,Not Started
+NCR-1242,2024-07-16,,WHAR-005,SUP-005,Incorrect Part Number,Major,RCA Complete,QE-Brooks,Design Deficiency,Not Started
+NCR-1243,2024-09-23,2024-10-03,WING-007,SUP-006,Missing Hardware,Major,Closed,QE-Brooks,Incoming Material,In Progress
+NCR-1244,2024-01-17,2024-02-07,LARM-015,SUP-010,Contamination,Major,Closed,QE-Osei,Supplier Non-Conformance,Not Started
+NCR-1245,2024-03-28,2024-04-23,ESC-002,SUP-004,Solder Joint Failure,Critical,Closed,QE-Nguyen,Tooling Wear,Complete
+NCR-1246,2024-03-16,,BCON-006,SUP-004,Electrical Short,Major,CAPA In Progress,QE-Osei,Measurement Error,Not Started
+NCR-1247,2024-11-03,2024-11-25,PROP-003,SUP-006,Corrosion,Major,Closed,QE-Osei,Training Gap,In Progress
+NCR-1248,2023-04-03,,MOTOR-004,SUP-007,Dimensional Out-of-Tolerance,Minor,Under Review,QE-Osei,,Complete
+NCR-1249,2024-12-07,2024-12-26,GPS-013,SUP-004,Dimensional Out-of-Tolerance,Major,Closed,QE-Nguyen,Tooling Wear,In Progress
+NCR-1250,2023-02-18,,BATT-008,SUP-009,Contamination,Major,RCA Complete,QE-Patel,Supplier Non-Conformance,Complete
+NCR-1251,2024-11-20,2024-12-04,MMB-001,SUP-003,Contamination,Major,Closed,QE-Brooks,Process Deviation,In Progress
+NCR-1252,2024-06-16,,ESC-002,SUP-004,Documentation Missing,Minor,Open,QE-Brooks,,Not Started
+NCR-1253,2024-10-23,2024-11-25,WING-007,SUP-006,Insulation Damage,Major,Closed,QE-Nguyen,Tooling Wear,In Progress
+NCR-1254,2024-05-22,,MOTOR-004,SUP-007,Thread Damage,Major,RCA Complete,QE-Torres,Incoming Material,Not Started
+NCR-1255,2023-10-18,,WHAR-005,SUP-005,Surface Finish,Major,Open,QE-Brooks,,Not Started
+NCR-1256,2023-12-24,2024-01-26,FC-014,SUP-004,Solder Joint Failure,Critical,Closed,QE-Patel,Tooling Wear,Complete
+NCR-1257,2024-11-14,2024-12-03,WHAR-005,SUP-005,Missing Hardware,Major,Closed,QE-Brooks,Training Gap,In Progress
+NCR-1258,2024-11-18,2024-12-30,WING-007,SUP-006,Surface Finish,Major,Closed,QE-Brooks,Design Deficiency,Complete
+NCR-1259,2023-06-14,,FRAME-012,SUP-001,Connector Misalignment,Minor,CAPA In Progress,QE-Torres,Tooling Wear,Not Started
+NCR-1260,2023-03-15,,PYLD-009,SUP-001,Missing Hardware,Minor,Containment Complete,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1261,2023-12-16,2024-01-16,PYLD-009,SUP-001,Thread Damage,Minor,Closed,QE-Osei,Design Deficiency,In Progress
+NCR-1262,2024-01-01,,GPS-013,SUP-004,Incorrect Part Number,Major,Open,QE-Torres,,Not Started
+NCR-1263,2024-03-02,,THRM-011,SUP-005,Delamination,Major,RCA Complete,QE-Patel,Design Deficiency,In Progress
+NCR-1264,2023-09-23,,THRM-011,SUP-005,Surface Finish,Minor,Under Review,QE-Brooks,,Not Started
+NCR-1265,2023-12-14,,PYLD-009,SUP-001,Connector Misalignment,Major,Under Review,QE-Torres,,Not Started
+NCR-1266,2023-10-04,2023-11-11,PROP-003,SUP-006,Delamination,Critical,Closed,QE-Patel,Incoming Material,Complete
+NCR-1267,2023-06-02,,MOTOR-004,SUP-007,Wrong Material Cert,Critical,Open,QE-Brooks,,Not Started
+NCR-1268,2023-08-10,,PYLD-009,SUP-001,Wrong Material Cert,Critical,CAPA In Progress,QE-Patel,Supplier Non-Conformance,In Progress
+NCR-1269,2024-06-05,,PROP-003,SUP-006,Missing Hardware,Critical,RCA Complete,QE-Patel,Incoming Material,Not Started
+NCR-1270,2023-02-12,,THRM-011,SUP-005,Corrosion,Minor,Under Review,QE-Torres,,Not Started
+NCR-1271,2023-06-11,,THRM-011,SUP-005,Delamination,Minor,RCA Complete,QE-Patel,Process Deviation,In Progress
+NCR-1272,2024-01-26,,LARM-015,SUP-010,Contamination,Minor,CAPA In Progress,QE-Torres,Measurement Error,Complete
+NCR-1273,2023-09-21,,GPS-013,SUP-004,Solder Joint Failure,Major,CAPA In Progress,QE-Osei,Supplier Non-Conformance,Complete
+NCR-1274,2024-10-20,2024-11-08,PROP-003,SUP-006,Documentation Missing,Major,Closed,QE-Nguyen,Process Deviation,Not Started
+NCR-1275,2024-05-30,,BATT-008,SUP-009,Corrosion,Minor,CAPA In Progress,QE-Torres,Measurement Error,In Progress
+NCR-1276,2023-07-09,2023-08-11,BCON-006,SUP-004,Incorrect Part Number,Major,Closed,QE-Brooks,Incoming Material,Not Started
+NCR-1277,2024-02-09,,PYLD-009,SUP-001,Electrical Short,Minor,Under Review,QE-Patel,,Not Started
+NCR-1278,2023-01-20,,FC-014,SUP-004,Thread Damage,Critical,RCA Complete,QE-Torres,Training Gap,Complete
+NCR-1279,2024-10-15,2024-11-13,WING-007,SUP-006,Documentation Missing,Major,Closed,QE-Osei,Process Deviation,In Progress
+NCR-1280,2023-08-26,2023-09-28,FRAME-012,SUP-001,Wrong Material Cert,Critical,Closed,QE-Patel,Measurement Error,Not Started
+NCR-1281,2023-12-25,,THRM-011,SUP-005,Crack / Fracture,Minor,Under Review,QE-Brooks,,In Progress
+NCR-1282,2023-07-08,2023-07-28,GPS-013,SUP-004,Solder Joint Failure,Major,Closed,QE-Osei,Process Deviation,Complete
+NCR-1283,2024-03-27,,MOTOR-004,SUP-007,Thread Damage,Critical,Open,QE-Brooks,,Not Started
+NCR-1284,2023-12-13,2023-12-31,FRAME-012,SUP-001,Incorrect Part Number,Minor,Closed,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1285,2024-01-25,2024-01-31,BCON-006,SUP-004,Electrical Short,Minor,Closed,QE-Torres,Training Gap,In Progress
+NCR-1286,2024-12-20,,WING-007,SUP-006,Delamination,Major,Containment Complete,QE-Patel,Design Deficiency,Not Started
+NCR-1287,2023-02-08,,THRM-011,SUP-005,Wrong Material Cert,Major,CAPA In Progress,QE-Osei,Design Deficiency,Complete
+NCR-1288,2024-01-12,,THRM-011,SUP-005,Dimensional Out-of-Tolerance,Major,Open,QE-Brooks,,Not Started
+NCR-1289,2023-12-28,,ESC-002,SUP-004,Wrong Material Cert,Major,Open,QE-Osei,,Not Started
+NCR-1290,2023-12-08,,PROP-003,SUP-006,Insulation Damage,Major,CAPA In Progress,QE-Brooks,Measurement Error,Complete
+NCR-1291,2023-03-02,,LARM-015,SUP-010,Missing Hardware,Minor,CAPA In Progress,QE-Nguyen,Training Gap,Complete
+NCR-1292,2023-08-07,2023-09-15,GPS-013,SUP-004,Incorrect Part Number,Major,Closed,QE-Brooks,Measurement Error,In Progress
+NCR-1293,2023-08-09,,WHAR-005,SUP-005,Insulation Damage,Major,CAPA In Progress,QE-Torres,Incoming Material,In Progress
+NCR-1294,2024-11-04,2024-12-09,MMB-001,SUP-003,Solder Joint Failure,Major,Closed,QE-Brooks,Measurement Error,In Progress
+NCR-1295,2024-01-12,2024-01-16,FC-014,SUP-004,Solder Joint Failure,Major,Closed,QE-Nguyen,Supplier Non-Conformance,In Progress
+NCR-1296,2024-07-24,,FRAME-012,SUP-001,Delamination,Major,Under Review,QE-Osei,,Not Started
+NCR-1297,2023-01-01,,ESC-002,SUP-004,Connector Misalignment,Major,Under Review,QE-Osei,,Complete
+NCR-1298,2023-10-21,2023-11-11,FRAME-012,SUP-001,Surface Finish,Major,Closed,QE-Patel,Measurement Error,In Progress
+NCR-1299,2023-07-10,2023-07-16,PROP-003,SUP-006,Connector Misalignment,Minor,Closed,QE-Osei,Supplier Non-Conformance,Complete
+NCR-1300,2023-03-24,2023-03-29,PYLD-009,SUP-001,Documentation Missing,Minor,Closed,QE-Nguyen,Supplier Non-Conformance,Complete
+NCR-1301,2023-09-06,,THRM-011,SUP-005,Connector Misalignment,Major,Under Review,QE-Patel,,Not Started
+NCR-1302,2023-03-23,2023-05-06,ESC-002,SUP-004,Documentation Missing,Major,Closed,QE-Torres,Tooling Wear,Not Started
+NCR-1303,2024-10-10,2024-11-11,BCON-006,SUP-004,Documentation Missing,Major,Closed,QE-Brooks,Training Gap,Complete
+NCR-1304,2024-02-11,2024-03-18,PYLD-009,SUP-001,Crack / Fracture,Major,Closed,QE-Osei,Incoming Material,Not Started
+NCR-1305,2024-12-16,2025-01-09,LARM-015,SUP-010,Documentation Missing,Major,Closed,QE-Brooks,Training Gap,In Progress
+NCR-1306,2024-09-12,,LARM-015,SUP-010,Thread Damage,Critical,Containment Complete,QE-Patel,Measurement Error,Complete
+NCR-1307,2024-10-03,,PROP-003,SUP-006,Wrong Material Cert,Critical,Open,QE-Nguyen,,Not Started
+NCR-1308,2024-09-15,,FC-014,SUP-004,Connector Misalignment,Minor,Open,QE-Patel,,Not Started
+NCR-1309,2024-12-05,2024-12-15,FC-014,SUP-004,Electrical Short,Critical,Closed,QE-Osei,Design Deficiency,In Progress
+NCR-1310,2024-03-23,2024-05-05,BCON-006,SUP-004,Surface Finish,Major,Closed,QE-Brooks,Incoming Material,Not Started
+NCR-1311,2024-07-05,2024-07-21,PROP-003,SUP-006,Insulation Damage,Major,Closed,QE-Osei,Supplier Non-Conformance,Complete
+NCR-1312,2024-04-27,2024-06-05,BATT-008,SUP-009,Connector Misalignment,Minor,Closed,QE-Nguyen,Process Deviation,Not Started
+NCR-1313,2024-08-01,2024-09-01,MOTOR-004,SUP-007,Wrong Material Cert,Minor,Closed,QE-Brooks,Measurement Error,Not Started
+NCR-1314,2024-01-21,,WING-007,SUP-006,Corrosion,Critical,RCA Complete,QE-Torres,Design Deficiency,Complete
+NCR-1315,2024-06-06,,WHAR-005,SUP-005,Missing Hardware,Major,Containment Complete,QE-Torres,Process Deviation,Not Started
+NCR-1316,2024-09-25,2024-10-15,MOTOR-004,SUP-007,Delamination,Minor,Closed,QE-Torres,Process Deviation,In Progress
+NCR-1317,2023-06-13,2023-07-26,FRAME-012,SUP-001,Connector Misalignment,Major,Closed,QE-Osei,Training Gap,Not Started
+NCR-1318,2024-08-31,,FAST-010,SUP-008,Crack / Fracture,Major,Open,QE-Brooks,,Not Started
+NCR-1319,2023-02-28,2023-04-13,BCON-006,SUP-004,Dimensional Out-of-Tolerance,Major,Closed,QE-Torres,Measurement Error,Not Started
+NCR-1320,2024-07-16,2024-08-30,FRAME-012,SUP-001,Crack / Fracture,Major,Closed,QE-Patel,Process Deviation,Complete
+NCR-1321,2024-10-05,,LARM-015,SUP-010,Insulation Damage,Minor,RCA Complete,QE-Nguyen,Measurement Error,Complete
+NCR-1322,2023-01-17,,WHAR-005,SUP-005,Incorrect Part Number,Minor,CAPA In Progress,QE-Torres,Training Gap,Not Started
+NCR-1323,2024-11-13,,BATT-008,SUP-009,Solder Joint Failure,Minor,Under Review,QE-Osei,,In Progress
+NCR-1324,2023-06-21,2023-07-18,GPS-013,SUP-004,Incorrect Part Number,Major,Closed,QE-Patel,Supplier Non-Conformance,In Progress
+NCR-1325,2024-03-20,2024-04-13,PYLD-009,SUP-001,Corrosion,Minor,Closed,QE-Osei,Supplier Non-Conformance,Complete
+NCR-1326,2023-05-01,,MOTOR-004,SUP-007,Dimensional Out-of-Tolerance,Minor,RCA Complete,QE-Osei,Process Deviation,Not Started
+NCR-1327,2024-12-26,2025-01-02,MOTOR-004,SUP-007,Electrical Short,Minor,Closed,QE-Brooks,Training Gap,Complete
+NCR-1328,2023-01-12,,MOTOR-004,SUP-007,Surface Finish,Major,Open,QE-Nguyen,,Not Started
+NCR-1329,2023-12-15,,PROP-003,SUP-006,Dimensional Out-of-Tolerance,Minor,Containment Complete,QE-Patel,Measurement Error,In Progress
+NCR-1330,2024-02-10,2024-02-17,BCON-006,SUP-004,Wrong Material Cert,Critical,Closed,QE-Torres,Training Gap,Not Started
+NCR-1331,2023-09-10,,MMB-001,SUP-003,Connector Misalignment,Major,Open,QE-Nguyen,,Not Started
+NCR-1332,2024-04-14,,BCON-006,SUP-004,Electrical Short,Major,Containment Complete,QE-Patel,Process Deviation,In Progress
+NCR-1333,2023-07-18,,ESC-002,SUP-004,Insulation Damage,Major,CAPA In Progress,QE-Osei,Measurement Error,Not Started
+NCR-1334,2023-10-15,2023-11-21,MMB-001,SUP-003,Delamination,Major,Closed,QE-Osei,Training Gap,Complete
+NCR-1335,2023-12-11,2023-12-30,BCON-006,SUP-004,Delamination,Major,Closed,QE-Osei,Training Gap,Complete
+NCR-1336,2024-10-01,,FRAME-012,SUP-001,Connector Misalignment,Major,Containment Complete,QE-Osei,Process Deviation,Complete
+NCR-1337,2023-07-07,,WHAR-005,SUP-005,Insulation Damage,Major,RCA Complete,QE-Brooks,Training Gap,Complete
+NCR-1338,2023-04-03,2023-05-06,GPS-013,SUP-004,Electrical Short,Minor,Closed,QE-Nguyen,Design Deficiency,Complete
+NCR-1339,2023-11-21,,BATT-008,SUP-009,Corrosion,Minor,RCA Complete,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1340,2023-10-02,,MMB-001,SUP-003,Electrical Short,Major,CAPA In Progress,QE-Osei,Design Deficiency,Complete
+NCR-1341,2023-10-25,2023-11-13,WHAR-005,SUP-005,Connector Misalignment,Minor,Closed,QE-Torres,Design Deficiency,In Progress
+NCR-1342,2024-01-17,,BCON-006,SUP-004,Corrosion,Minor,RCA Complete,QE-Brooks,Tooling Wear,Not Started
+NCR-1343,2024-05-18,,LARM-015,SUP-010,Solder Joint Failure,Minor,Open,QE-Torres,,Not Started
+NCR-1344,2023-07-18,2023-07-23,BATT-008,SUP-009,Surface Finish,Major,Closed,QE-Nguyen,Incoming Material,Not Started
+NCR-1345,2024-05-14,,PYLD-009,SUP-001,Crack / Fracture,Minor,RCA Complete,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1346,2024-01-24,2024-02-29,THRM-011,SUP-005,Dimensional Out-of-Tolerance,Major,Closed,QE-Patel,Measurement Error,In Progress
+NCR-1347,2023-05-14,,WHAR-005,SUP-005,Corrosion,Major,Under Review,QE-Torres,,Complete
+NCR-1348,2023-05-26,,PROP-003,SUP-006,Surface Finish,Critical,RCA Complete,QE-Osei,Tooling Wear,Complete
+NCR-1349,2024-08-29,,WHAR-005,SUP-005,Wrong Material Cert,Minor,Under Review,QE-Brooks,,In Progress
+NCR-1350,2024-07-06,,BCON-006,SUP-004,Insulation Damage,Minor,RCA Complete,QE-Brooks,Incoming Material,Not Started
+NCR-1351,2024-03-05,,PYLD-009,SUP-001,Corrosion,Minor,Containment Complete,QE-Nguyen,Tooling Wear,In Progress
+NCR-1352,2024-09-28,2024-10-28,BATT-008,SUP-009,Contamination,Critical,Closed,QE-Torres,Training Gap,Complete
+NCR-1353,2023-01-22,,WHAR-005,SUP-005,Connector Misalignment,Major,RCA Complete,QE-Patel,Tooling Wear,In Progress
+NCR-1354,2024-11-07,2024-11-18,FRAME-012,SUP-001,Connector Misalignment,Minor,Closed,QE-Patel,Tooling Wear,Not Started
+NCR-1355,2024-12-18,2025-01-11,MMB-001,SUP-003,Corrosion,Minor,Closed,QE-Torres,Supplier Non-Conformance,Not Started
+NCR-1356,2023-01-01,,GPS-013,SUP-004,Documentation Missing,Minor,CAPA In Progress,QE-Torres,Tooling Wear,In Progress
+NCR-1357,2024-12-07,2025-01-05,PYLD-009,SUP-001,Contamination,Major,Closed,QE-Torres,Design Deficiency,Not Started
+NCR-1358,2024-06-28,2024-08-09,THRM-011,SUP-005,Incorrect Part Number,Minor,Closed,QE-Patel,Supplier Non-Conformance,In Progress
+NCR-1359,2023-12-20,,LARM-015,SUP-010,Contamination,Major,CAPA In Progress,QE-Nguyen,Incoming Material,Not Started
+NCR-1360,2023-06-16,,FC-014,SUP-004,Corrosion,Major,Under Review,QE-Torres,,Not Started
+NCR-1361,2024-04-10,2024-04-26,WING-007,SUP-006,Connector Misalignment,Major,Closed,QE-Nguyen,Measurement Error,Not Started
+NCR-1362,2023-10-31,,MMB-001,SUP-003,Corrosion,Major,Open,QE-Patel,,Not Started
+NCR-1363,2024-11-10,,MOTOR-004,SUP-007,Connector Misalignment,Major,CAPA In Progress,QE-Brooks,Measurement Error,In Progress
+NCR-1364,2024-02-17,,GPS-013,SUP-004,Missing Hardware,Minor,Under Review,QE-Osei,,Complete
+NCR-1365,2024-10-07,,WHAR-005,SUP-005,Incorrect Part Number,Minor,CAPA In Progress,QE-Torres,Measurement Error,Complete
+NCR-1366,2024-07-24,,FC-014,SUP-004,Corrosion,Minor,Containment Complete,QE-Torres,Supplier Non-Conformance,Complete
+NCR-1367,2024-09-27,,FAST-010,SUP-008,Documentation Missing,Critical,RCA Complete,QE-Brooks,Process Deviation,Not Started
+NCR-1368,2023-04-10,,MMB-001,SUP-003,Missing Hardware,Critical,Containment Complete,QE-Osei,Incoming Material,Not Started
+NCR-1369,2023-02-16,,WING-007,SUP-006,Contamination,Major,RCA Complete,QE-Patel,Incoming Material,Not Started
+NCR-1370,2024-06-03,2024-06-14,BATT-008,SUP-009,Insulation Damage,Major,Closed,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1371,2024-10-03,,PROP-003,SUP-006,Delamination,Minor,CAPA In Progress,QE-Torres,Design Deficiency,Not Started
+NCR-1372,2023-08-23,,FAST-010,SUP-008,Documentation Missing,Major,RCA Complete,QE-Brooks,Training Gap,Not Started
+NCR-1373,2024-11-05,,FRAME-012,SUP-001,Delamination,Major,Containment Complete,QE-Patel,Measurement Error,Complete
+NCR-1374,2023-09-09,,FRAME-012,SUP-001,Documentation Missing,Minor,CAPA In Progress,QE-Torres,Measurement Error,In Progress
+NCR-1375,2023-10-17,,FC-014,SUP-004,Crack / Fracture,Major,CAPA In Progress,QE-Brooks,Training Gap,In Progress
+NCR-1376,2024-12-31,,ESC-002,SUP-004,Contamination,Major,Containment Complete,QE-Torres,Supplier Non-Conformance,Complete
+NCR-1377,2023-10-26,2023-11-23,BCON-006,SUP-004,Insulation Damage,Major,Closed,QE-Brooks,Training Gap,Not Started
+NCR-1378,2023-04-23,,FRAME-012,SUP-001,Electrical Short,Critical,RCA Complete,QE-Nguyen,Supplier Non-Conformance,Complete
+NCR-1379,2024-01-30,2024-02-11,LARM-015,SUP-010,Surface Finish,Major,Closed,QE-Nguyen,Incoming Material,Complete
+NCR-1380,2023-10-24,,FAST-010,SUP-008,Electrical Short,Major,Under Review,QE-Osei,,Complete
+NCR-1381,2024-12-20,,FRAME-012,SUP-001,Crack / Fracture,Minor,Open,QE-Brooks,,Not Started
+NCR-1382,2023-01-07,2023-02-04,FAST-010,SUP-008,Insulation Damage,Critical,Closed,QE-Nguyen,Tooling Wear,Not Started
+NCR-1383,2023-10-29,2023-11-06,BATT-008,SUP-009,Connector Misalignment,Major,Closed,QE-Patel,Training Gap,In Progress
+NCR-1384,2024-07-01,,FRAME-012,SUP-001,Surface Finish,Critical,CAPA In Progress,QE-Osei,Tooling Wear,Complete
+NCR-1385,2024-06-20,2024-07-09,MOTOR-004,SUP-007,Documentation Missing,Minor,Closed,QE-Brooks,Measurement Error,Not Started
+NCR-1386,2024-04-17,,FC-014,SUP-004,Delamination,Major,CAPA In Progress,QE-Torres,Incoming Material,Complete
+NCR-1387,2023-08-06,2023-08-19,MOTOR-004,SUP-007,Connector Misalignment,Major,Closed,QE-Patel,Measurement Error,Complete
+NCR-1388,2023-04-19,2023-05-01,PROP-003,SUP-006,Surface Finish,Major,Closed,QE-Torres,Training Gap,Complete
+NCR-1389,2024-11-06,,FC-014,SUP-004,Delamination,Major,CAPA In Progress,QE-Nguyen,Supplier Non-Conformance,Complete
+NCR-1390,2024-02-03,,GPS-013,SUP-004,Delamination,Major,Containment Complete,QE-Torres,Training Gap,Complete
+NCR-1391,2024-04-11,,WHAR-005,SUP-005,Corrosion,Major,RCA Complete,QE-Nguyen,Measurement Error,In Progress
+NCR-1392,2024-09-02,2024-09-27,FAST-010,SUP-008,Dimensional Out-of-Tolerance,Minor,Closed,QE-Torres,Measurement Error,Complete
+NCR-1393,2024-06-20,2024-07-14,PYLD-009,SUP-001,Thread Damage,Minor,Closed,QE-Brooks,Tooling Wear,Not Started
+NCR-1394,2023-08-07,,ESC-002,SUP-004,Insulation Damage,Minor,CAPA In Progress,QE-Nguyen,Design Deficiency,Complete
+NCR-1395,2024-12-09,2024-12-24,MOTOR-004,SUP-007,Documentation Missing,Major,Closed,QE-Nguyen,Incoming Material,Not Started
+NCR-1396,2024-06-07,,LARM-015,SUP-010,Delamination,Major,Open,QE-Torres,,Not Started
+NCR-1397,2023-08-03,,ESC-002,SUP-004,Missing Hardware,Major,Open,QE-Nguyen,,Not Started
+NCR-1398,2023-02-16,2023-03-05,THRM-011,SUP-005,Surface Finish,Major,Closed,QE-Osei,Tooling Wear,Not Started
+NCR-1399,2024-03-21,,ESC-002,SUP-004,Electrical Short,Minor,Containment Complete,QE-Nguyen,Incoming Material,In Progress
+NCR-1400,2023-05-30,,FC-014,SUP-004,Crack / Fracture,Minor,Under Review,QE-Torres,,Complete
+NCR-1401,2024-05-07,2024-05-10,MOTOR-004,SUP-007,Corrosion,Major,Closed,QE-Patel,Supplier Non-Conformance,Complete
+NCR-1402,2023-09-30,2023-11-08,FRAME-012,SUP-001,Thread Damage,Major,Closed,QE-Patel,Training Gap,Complete
+NCR-1403,2024-01-27,,MMB-001,SUP-003,Insulation Damage,Critical,RCA Complete,QE-Osei,Design Deficiency,Not Started
+NCR-1404,2024-01-14,,WHAR-005,SUP-005,Missing Hardware,Major,Under Review,QE-Nguyen,,In Progress
+NCR-1405,2023-07-28,,LARM-015,SUP-010,Electrical Short,Minor,RCA Complete,QE-Patel,Training Gap,Not Started
+NCR-1406,2024-08-23,,BCON-006,SUP-004,Delamination,Minor,Under Review,QE-Torres,,Not Started
+NCR-1407,2023-11-22,2024-01-04,THRM-011,SUP-005,Missing Hardware,Minor,Closed,QE-Nguyen,Design Deficiency,Not Started
+NCR-1408,2024-08-19,,BATT-008,SUP-009,Solder Joint Failure,Minor,Open,QE-Patel,,Not Started
+NCR-1409,2024-06-13,2024-07-24,PROP-003,SUP-006,Incorrect Part Number,Minor,Closed,QE-Brooks,Supplier Non-Conformance,Not Started
+NCR-1410,2023-05-03,,FAST-010,SUP-008,Thread Damage,Major,CAPA In Progress,QE-Torres,Process Deviation,In Progress
+NCR-1411,2023-02-24,2023-03-15,ESC-002,SUP-004,Surface Finish,Critical,Closed,QE-Nguyen,Process Deviation,In Progress
+NCR-1412,2024-07-11,,FAST-010,SUP-008,Missing Hardware,Major,Containment Complete,QE-Torres,Design Deficiency,Complete
+NCR-1413,2024-01-17,,PROP-003,SUP-006,Delamination,Major,Open,QE-Patel,,Not Started
+NCR-1414,2023-06-09,,GPS-013,SUP-004,Wrong Material Cert,Major,RCA Complete,QE-Torres,Training Gap,Complete
+NCR-1415,2024-02-17,,WING-007,SUP-006,Incorrect Part Number,Major,Under Review,QE-Osei,,Not Started
+NCR-1416,2024-06-10,,BCON-006,SUP-004,Dimensional Out-of-Tolerance,Major,Under Review,QE-Osei,,Not Started
+NCR-1417,2023-10-11,,PYLD-009,SUP-001,Surface Finish,Critical,CAPA In Progress,QE-Osei,Design Deficiency,In Progress
+NCR-1418,2024-10-05,,LARM-015,SUP-010,Wrong Material Cert,Major,CAPA In Progress,QE-Patel,Measurement Error,Not Started
+NCR-1419,2024-09-10,2024-10-14,WHAR-005,SUP-005,Dimensional Out-of-Tolerance,Minor,Closed,QE-Torres,Supplier Non-Conformance,Complete
+NCR-1420,2023-03-12,,MMB-001,SUP-003,Dimensional Out-of-Tolerance,Minor,RCA Complete,QE-Brooks,Design Deficiency,In Progress
+NCR-1421,2024-07-02,,PYLD-009,SUP-001,Thread Damage,Major,CAPA In Progress,QE-Nguyen,Process Deviation,Complete
+NCR-1422,2024-01-28,,THRM-011,SUP-005,Missing Hardware,Minor,CAPA In Progress,QE-Patel,Process Deviation,Complete
+NCR-1423,2023-03-22,,ESC-002,SUP-004,Incorrect Part Number,Minor,Under Review,QE-Osei,,In Progress
+NCR-1424,2023-01-27,,ESC-002,SUP-004,Wrong Material Cert,Major,CAPA In Progress,QE-Brooks,Supplier Non-Conformance,Complete
+NCR-1425,2023-10-29,,LARM-015,SUP-010,Thread Damage,Major,RCA Complete,QE-Brooks,Process Deviation,Not Started
+NCR-1426,2024-02-09,2024-02-13,FC-014,SUP-004,Crack / Fracture,Minor,Closed,QE-Patel,Training Gap,Not Started
+NCR-1427,2023-01-03,,FRAME-012,SUP-001,Electrical Short,Major,CAPA In Progress,QE-Osei,Supplier Non-Conformance,In Progress
+NCR-1428,2024-12-25,2025-01-15,FRAME-012,SUP-001,Electrical Short,Major,Closed,QE-Patel,Training Gap,Complete
+NCR-1429,2024-08-13,2024-08-28,MOTOR-004,SUP-007,Incorrect Part Number,Minor,Closed,QE-Patel,Measurement Error,In Progress
+NCR-1430,2023-08-30,,WING-007,SUP-006,Dimensional Out-of-Tolerance,Critical,CAPA In Progress,QE-Patel,Supplier Non-Conformance,Not Started
+NCR-1431,2023-11-30,,WHAR-005,SUP-005,Thread Damage,Major,RCA Complete,QE-Patel,Measurement Error,Complete
+NCR-1432,2023-10-11,,LARM-015,SUP-010,Contamination,Critical,Under Review,QE-Nguyen,,Not Started
+NCR-1433,2024-02-06,2024-02-17,FAST-010,SUP-008,Incorrect Part Number,Major,Closed,QE-Torres,Process Deviation,In Progress
+NCR-1434,2023-12-14,2024-01-15,FRAME-012,SUP-001,Wrong Material Cert,Major,Closed,QE-Nguyen,Measurement Error,In Progress
+NCR-1435,2023-05-26,2023-06-20,ESC-002,SUP-004,Incorrect Part Number,Major,Closed,QE-Brooks,Process Deviation,Complete
+NCR-1436,2023-06-04,,THRM-011,SUP-005,Dimensional Out-of-Tolerance,Major,Under Review,QE-Brooks,,Not Started
+NCR-1437,2023-07-15,,MOTOR-004,SUP-007,Solder Joint Failure,Minor,RCA Complete,QE-Osei,Process Deviation,Not Started
+NCR-1438,2023-07-01,2023-07-15,WHAR-005,SUP-005,Missing Hardware,Major,Closed,QE-Brooks,Process Deviation,Complete
+NCR-1439,2023-05-01,2023-05-04,MMB-001,SUP-003,Connector Misalignment,Minor,Closed,QE-Brooks,Process Deviation,Complete
+NCR-1440,2024-05-21,,BATT-008,SUP-009,Crack / Fracture,Critical,CAPA In Progress,QE-Osei,Design Deficiency,Complete
+NCR-1441,2024-10-16,2024-11-02,FRAME-012,SUP-001,Crack / Fracture,Major,Closed,QE-Torres,Supplier Non-Conformance,Complete
+NCR-1442,2024-06-22,2024-08-01,BATT-008,SUP-009,Corrosion,Major,Closed,QE-Brooks,Incoming Material,In Progress
+NCR-1443,2024-04-26,,MMB-001,SUP-003,Contamination,Minor,RCA Complete,QE-Brooks,Design Deficiency,Complete
+NCR-1444,2023-08-27,2023-09-22,LARM-015,SUP-010,Delamination,Critical,Closed,QE-Nguyen,Process Deviation,Not Started
+NCR-1445,2024-01-31,,BCON-006,SUP-004,Missing Hardware,Major,Under Review,QE-Nguyen,,Not Started
+NCR-1446,2024-07-27,,BATT-008,SUP-009,Electrical Short,Critical,Containment Complete,QE-Brooks,Tooling Wear,Not Started
+NCR-1447,2024-04-27,2024-05-03,LARM-015,SUP-010,Connector Misalignment,Major,Closed,QE-Patel,Training Gap,In Progress
+NCR-1448,2023-09-15,2023-10-20,MOTOR-004,SUP-007,Documentation Missing,Minor,Closed,QE-Nguyen,Training Gap,Not Started
+NCR-1449,2023-07-30,2023-08-30,FAST-010,SUP-008,Insulation Damage,Minor,Closed,QE-Patel,Process Deviation,Not Started
+NCR-1450,2023-07-05,,FAST-010,SUP-008,Delamination,Major,RCA Complete,QE-Torres,Design Deficiency,In Progress
+NCR-1451,2023-06-01,,MMB-001,SUP-003,Documentation Missing,Major,RCA Complete,QE-Torres,Incoming Material,In Progress
+NCR-1452,2023-07-22,2023-07-26,WING-007,SUP-006,Connector Misalignment,Minor,Closed,QE-Patel,Training Gap,Not Started
+NCR-1453,2024-05-20,,ESC-002,SUP-004,Dimensional Out-of-Tolerance,Major,CAPA In Progress,QE-Patel,Incoming Material,Not Started
+NCR-1454,2023-09-21,2023-09-28,PYLD-009,SUP-001,Surface Finish,Major,Closed,QE-Brooks,Training Gap,In Progress
+NCR-1455,2024-05-06,2024-06-17,WING-007,SUP-006,Thread Damage,Major,Closed,QE-Patel,Supplier Non-Conformance,Complete
+NCR-1456,2023-12-30,2024-01-27,PROP-003,SUP-006,Missing Hardware,Minor,Closed,QE-Osei,Training Gap,Not Started
+NCR-1457,2023-09-03,2023-09-10,THRM-011,SUP-005,Contamination,Minor,Closed,QE-Torres,Supplier Non-Conformance,Complete
+NCR-1458,2024-10-20,2024-11-10,FAST-010,SUP-008,Connector Misalignment,Major,Closed,QE-Nguyen,Training Gap,Not Started
+NCR-1459,2024-08-13,,MMB-001,SUP-003,Documentation Missing,Major,Open,QE-Patel,,Not Started
+NCR-1460,2023-02-18,2023-03-31,PYLD-009,SUP-001,Wrong Material Cert,Minor,Closed,QE-Brooks,Process Deviation,In Progress
+NCR-1461,2024-06-27,,LARM-015,SUP-010,Thread Damage,Minor,CAPA In Progress,QE-Brooks,Measurement Error,Not Started
+NCR-1462,2024-03-12,,GPS-013,SUP-004,Thread Damage,Major,Open,QE-Torres,,Not Started
+NCR-1463,2023-12-11,,BATT-008,SUP-009,Corrosion,Major,RCA Complete,QE-Nguyen,Measurement Error,In Progress
+NCR-1464,2023-06-13,,MMB-001,SUP-003,Incorrect Part Number,Major,Under Review,QE-Nguyen,,Complete
+NCR-1465,2024-11-11,,LARM-015,SUP-010,Contamination,Minor,RCA Complete,QE-Torres,Incoming Material,Complete
+NCR-1466,2024-05-01,,PROP-003,SUP-006,Incorrect Part Number,Minor,CAPA In Progress,QE-Nguyen,Supplier Non-Conformance,Not Started
+NCR-1467,2023-11-16,2023-12-18,PYLD-009,SUP-001,Incorrect Part Number,Minor,Closed,QE-Torres,Supplier Non-Conformance,In Progress
+NCR-1468,2024-09-15,,FRAME-012,SUP-001,Surface Finish,Major,Open,QE-Torres,,Not Started
+NCR-1469,2024-09-02,2024-09-15,PYLD-009,SUP-001,Surface Finish,Minor,Closed,QE-Brooks,Supplier Non-Conformance,In Progress
+NCR-1470,2023-05-31,2023-06-06,BCON-006,SUP-004,Documentation Missing,Major,Closed,QE-Patel,Design Deficiency,Not Started
+NCR-1471,2024-06-05,,WHAR-005,SUP-005,Dimensional Out-of-Tolerance,Major,Open,QE-Brooks,,Not Started
+NCR-1472,2023-12-20,2023-12-29,FAST-010,SUP-008,Insulation Damage,Major,Closed,QE-Brooks,Process Deviation,In Progress
+NCR-1473,2024-03-01,2024-03-06,WHAR-005,SUP-005,Corrosion,Minor,Closed,QE-Torres,Tooling Wear,Not Started
+NCR-1474,2023-05-18,2023-06-17,BATT-008,SUP-009,Electrical Short,Minor,Closed,QE-Nguyen,Training Gap,Not Started
+NCR-1475,2024-04-21,,WHAR-005,SUP-005,Corrosion,Major,CAPA In Progress,QE-Nguyen,Design Deficiency,In Progress
+NCR-1476,2024-10-06,,PYLD-009,SUP-001,Thread Damage,Minor,Containment Complete,QE-Osei,Tooling Wear,Not Started
+NCR-1477,2023-12-05,,FC-014,SUP-004,Surface Finish,Critical,Under Review,QE-Torres,,Not Started
+NCR-1478,2023-10-14,,PYLD-009,SUP-001,Delamination,Major,RCA Complete,QE-Osei,Design Deficiency,Complete
+NCR-1479,2024-02-03,2024-02-14,THRM-011,SUP-005,Insulation Damage,Major,Closed,QE-Torres,Process Deviation,In Progress
+NCR-1480,2023-03-09,2023-03-18,ESC-002,SUP-004,Insulation Damage,Major,Closed,QE-Nguyen,Process Deviation,In Progress
+NCR-1481,2023-08-01,,FRAME-012,SUP-001,Insulation Damage,Critical,Containment Complete,QE-Brooks,Training Gap,Complete
+NCR-1482,2024-03-07,2024-04-07,PYLD-009,SUP-001,Contamination,Minor,Closed,QE-Osei,Tooling Wear,Complete
+NCR-1483,2023-12-24,,BCON-006,SUP-004,Electrical Short,Major,Under Review,QE-Brooks,,Not Started
+NCR-1484,2024-10-27,,FAST-010,SUP-008,Solder Joint Failure,Minor,Containment Complete,QE-Patel,Training Gap,Not Started
+NCR-1485,2023-01-10,,WING-007,SUP-006,Dimensional Out-of-Tolerance,Major,CAPA In Progress,QE-Brooks,Training Gap,Not Started
+NCR-1486,2024-03-19,2024-04-02,FAST-010,SUP-008,Dimensional Out-of-Tolerance,Minor,Closed,QE-Patel,Measurement Error,Complete
+NCR-1487,2024-12-21,2025-01-28,THRM-011,SUP-005,Wrong Material Cert,Minor,Closed,QE-Patel,Design Deficiency,In Progress
+NCR-1488,2024-11-12,2024-11-21,WING-007,SUP-006,Solder Joint Failure,Critical,Closed,QE-Torres,Training Gap,Not Started
+NCR-1489,2024-11-30,,PROP-003,SUP-006,Connector Misalignment,Major,Open,QE-Osei,,Not Started
+NCR-1490,2024-02-20,2024-03-25,ESC-002,SUP-004,Incorrect Part Number,Minor,Closed,QE-Patel,Measurement Error,Not Started
+NCR-1491,2023-05-14,2023-05-23,FAST-010,SUP-008,Surface Finish,Minor,Closed,QE-Torres,Incoming Material,Not Started
+NCR-1492,2023-09-09,,WHAR-005,SUP-005,Thread Damage,Major,RCA Complete,QE-Patel,Design Deficiency,In Progress
+NCR-1493,2023-06-05,,FC-014,SUP-004,Contamination,Minor,CAPA In Progress,QE-Patel,Incoming Material,In Progress
+NCR-1494,2024-12-03,2024-12-21,WING-007,SUP-006,Incorrect Part Number,Minor,Closed,QE-Patel,Supplier Non-Conformance,Not Started
+NCR-1495,2024-09-05,,FRAME-012,SUP-001,Documentation Missing,Minor,Open,QE-Patel,,Not Started
+NCR-1496,2024-09-03,2024-09-29,THRM-011,SUP-005,Contamination,Critical,Closed,QE-Patel,Process Deviation,Not Started
+NCR-1497,2024-09-07,,FC-014,SUP-004,Connector Misalignment,Major,Under Review,QE-Brooks,,Complete
+NCR-1498,2023-12-24,,BCON-006,SUP-004,Solder Joint Failure,Minor,CAPA In Progress,QE-Osei,Tooling Wear,Not Started
+NCR-1499,2023-08-15,2023-09-05,PYLD-009,SUP-001,Delamination,Major,Closed,QE-Nguyen,Tooling Wear,Not Started
+NCR-1500,2023-10-08,2023-10-12,BCON-006,SUP-004,Electrical Short,Minor,Closed,QE-Patel,Incoming Material,In Progress

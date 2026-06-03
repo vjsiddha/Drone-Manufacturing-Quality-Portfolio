@@ -1,0 +1,16 @@
+part_number,part_name,subsystem,material,criticality_level,supplier_id,unit_cost
+MMB-001,Motor Mount Bracket,Propulsion,Aluminum 7075,High,SUP-003,85.0
+ESC-002,Electronic Speed Controller,Propulsion,PCB/MOSFET,High,SUP-004,120.0
+PROP-003,Carbon Fiber Propeller,Propulsion,CFRP,High,SUP-006,45.0
+MOTOR-004,Brushless Motor 5010,Propulsion,Copper/Steel,High,SUP-007,95.0
+WHAR-005,Wiring Harness Assembly,Propulsion,Copper/PVC,Medium,SUP-005,38.0
+BCON-006,Battery Connector XT90,Propulsion,Gold Plated,High,SUP-004,12.0
+WING-007,Wing Spar Assembly,Wing Structure,CFRP,High,SUP-006,210.0
+BATT-008,LiPo Battery Pack 6S,Battery,Lithium,High,SUP-009,320.0
+PYLD-009,Payload Release Mechanism,Payload,Aluminum/HDPE,Medium,SUP-001,75.0
+FAST-010,M3 Titanium Fastener Set,Propulsion,Titanium,Low,SUP-008,5.0
+THRM-011,Thermal Interface Pad,Propulsion,Silicone,Medium,SUP-005,3.5
+FRAME-012,Main Frame Chassis,Wing Structure,CFRP,High,SUP-001,450.0
+GPS-013,GPS Module u-blox F9P,Avionics,PCB,High,SUP-004,180.0
+FC-014,Flight Controller Board,Avionics,PCB,High,SUP-004,250.0
+LARM-015,Landing Arm Assembly,Wing Structure,Aluminum,Medium,SUP-010,65.0

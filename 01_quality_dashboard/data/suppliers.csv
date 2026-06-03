@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,supplier_tier,approved_status,primary_contact
+SUP-001,AeroForge Composites,USA,Tier 1,Approved,James Harlow
+SUP-002,PrecisionDynamics Inc.,Germany,Tier 1,Approved,Anna Müller
+SUP-003,SkyMetal Fabrication,Canada,Tier 2,Approved,Luc Tremblay
+SUP-004,FastTrack Electronics,Taiwan,Tier 1,Approved,Wei Chen
+SUP-005,OmegaWire Systems,USA,Tier 2,Approved,Maria Reyes
+SUP-006,Carbon Aero Structures,France,Tier 1,Approved,Pierre Dubois
+SUP-007,Huanyu Motor Co.,China,Tier 2,Conditional,Li Jing
+SUP-008,NordBolt Fasteners,Sweden,Tier 3,Approved,Erik Svensson
+SUP-009,AlphaComposite Materials,USA,Tier 1,Approved,Sarah Kim
+SUP-010,RedRock Machining,Mexico,Tier 2,Conditional,Carlos Vega
