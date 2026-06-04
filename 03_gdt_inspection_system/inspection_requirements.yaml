@@ -1,0 +1,134 @@
+part_number: MMB-001
+part_name: Drone Motor Mount Bracket
+revision: A
+material: Aluminum 7075-T6
+supplier: AeroForge Precision
+criticality: High
+subsystem: Propulsion
+
+datums:
+  A: Primary mounting face (bottom surface)
+  B: Long side edge
+  C: Short side edge
+
+features:
+  - feature_id: HOLE_1_POSITION
+    feature_name: Hole 1 True Position
+    gdandt_type: position
+    nominal_x: 20.00
+    nominal_y: 20.00
+    nominal_value: null
+    tolerance: 0.20
+    datum_reference: "A|B|C"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: HOLE_2_POSITION
+    feature_name: Hole 2 True Position
+    gdandt_type: position
+    nominal_x: 80.00
+    nominal_y: 20.00
+    nominal_value: null
+    tolerance: 0.20
+    datum_reference: "A|B|C"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: HOLE_3_POSITION
+    feature_name: Hole 3 True Position
+    gdandt_type: position
+    nominal_x: 20.00
+    nominal_y: 60.00
+    nominal_value: null
+    tolerance: 0.20
+    datum_reference: "A|B|C"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: HOLE_4_POSITION
+    feature_name: Hole 4 True Position
+    gdandt_type: position
+    nominal_x: 80.00
+    nominal_y: 60.00
+    nominal_value: null
+    tolerance: 0.20
+    datum_reference: "A|B|C"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: MOUNTING_FACE_FLATNESS
+    feature_name: Mounting Face Flatness
+    gdandt_type: flatness
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 0.00
+    tolerance: 0.05
+    datum_reference: "A"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: OPP_FACE_PARALLELISM
+    feature_name: Opposite Face Parallelism to Datum A
+    gdandt_type: parallelism
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 0.00
+    tolerance: 0.10
+    datum_reference: "A"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: MOTOR_BORE_PERP
+    feature_name: Motor Bore Perpendicularity to Datum A
+    gdandt_type: perpendicularity
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 0.00
+    tolerance: 0.15
+    datum_reference: "A"
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: OUTER_PROFILE
+    feature_name: Profile of Outer Bracket Surface
+    gdandt_type: profile
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 0.00
+    tolerance: 0.30
+    datum_reference: "A|B|C"
+    measurement_unit: mm
+    criticality: Medium
+
+  - feature_id: HOLE_DIAMETER
+    feature_name: Bolt Hole Diameter
+    gdandt_type: diameter
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 5.00
+    tolerance: 0.05
+    datum_reference: null
+    measurement_unit: mm
+    criticality: High
+
+  - feature_id: SLOT_WIDTH
+    feature_name: Alignment Slot Width
+    gdandt_type: width
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 8.00
+    tolerance: 0.10
+    datum_reference: null
+    measurement_unit: mm
+    criticality: Medium
+
+  - feature_id: BRACKET_THICKNESS
+    feature_name: Bracket Thickness
+    gdandt_type: thickness
+    nominal_x: null
+    nominal_y: null
+    nominal_value: 6.00
+    tolerance: 0.10
+    datum_reference: null
+    measurement_unit: mm
+    criticality: Medium
