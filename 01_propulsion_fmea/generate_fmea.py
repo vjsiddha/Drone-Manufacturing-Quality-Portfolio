@@ -726,5 +726,5 @@ with open(f"{OUT}/recommended_actions.md", "w") as f:
     f.write(actions_md)
 print("✓ recommended_actions.md")
 
-print(f"\n✅ Project 2 complete — {len(df)} failure modes, {len(high_rpn)} high-risk items")
+print(f"\n✅ Project 1 complete — {len(df)} failure modes, {len(high_rpn)} high-risk items")
 print(f"   Avg RPN before: {df['rpn'].mean():.1f} → after: {df['revised_rpn'].mean():.1f} ({avg_reduction:.1f}% reduction)")

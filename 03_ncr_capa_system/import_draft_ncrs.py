@@ -18,11 +18,11 @@ import sys
 from database import init_db, import_draft_ncrs
 
 # Default Project 3 integration path
-DEFAULT_DRAFT_NCR_PATH = Path(
-    "/workspaces/drone-manufacturing-quality-portfolio/"
-    "drone-manufacturing-quality-portfolio/"
-    "02_gdt_inspection_system/"
-    "draft_ncrs.csv"
+
+DEFAULT_DRAFT_NCR_PATH = (
+    Path(__file__).resolve().parent.parent
+    / "02_gdt_inspection_system"
+    / "draft_ncrs.csv"
 )
 
 

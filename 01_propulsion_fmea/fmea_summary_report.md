@@ -1,7 +1,7 @@
 # Drone Propulsion System FMEA — Summary Report
 
 **Document:** Propulsion FMEA Rev A  
-**Date:** 2026-06-03  
+**Date:** 2026-06-04  
 **Prepared by:** Quality Engineering  
 **Scope:** Drone Autonomous Delivery Vehicle — Propulsion Subsystem
 
@@ -28,7 +28,7 @@ This FMEA analyzes 35 failure modes across 8 propulsion components:
 
 - Analysis covers manufacturing and design-related failure modes.
 - Scoring reflects current-state controls prior to corrective actions.
-- Detection controls reflect inspection and end-of-line test capabilities as of 2026-06-03.
+- Detection controls reflect inspection and end-of-line test capabilities as of 2026-06-04.
 - RPN threshold for high-risk classification: **≥ 150**.
 
 ---
