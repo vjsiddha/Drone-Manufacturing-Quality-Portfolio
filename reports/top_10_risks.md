@@ -1,15 +1,6 @@
 # Top 10 FMEA Risk Items
 ## Drone Propulsion System — Ranked by RPN
 
-| | |
-|---|---|
-| Document | Propulsion FMEA Rev A |
-| Date | 2026-06-05 |
-| Risk threshold | RPN ≥ 150 = High |
-| Total failure modes | 35 |
-
----
-
 ## Rank 1 — Bearing seizure
 
 | | |
@@ -23,7 +14,7 @@
 | Owner | QE-Torres |
 | Due Date | 2026-07-05 |
 | Revised RPN | 81 — reduction of 144 points (64%) |
-| Status | Open |
+| Status | In Progress |
 
 ---
 
@@ -61,58 +52,7 @@
 
 ---
 
-## Rank 4 — Firmware mismatch
-
-| | |
-|---|---|
-| Component | Electronic Speed Controller |
-| Risk Band | HIGH |
-| RPN | 160 (S=8 × O=5 × D=4) |
-| Failure Effect | Motor runs at wrong speed profile → unstable flight |
-| Potential Cause | Firmware version not validated against motor/FC combination |
-| Recommended Action | Lock firmware version in build traveler; add version check to EOL script |
-| Owner | QE-Osei |
-| Due Date | 2026-06-19 |
-| Revised RPN | 32 — reduction of 128 points (80%) |
-| Status | In Progress |
-
----
-
-## Rank 5 — Delamination
-
-| | |
-|---|---|
-| Component | Propeller |
-| Risk Band | HIGH |
-| RPN | 160 (S=8 × O=4 × D=5) |
-| Failure Effect | Loss of aerodynamic profile → thrust asymmetry |
-| Potential Cause | CFRP layup defect; moisture ingress during storage |
-| Recommended Action | Add C-scan to receiving AQL plan for CFRP propellers; improve storage spec |
-| Owner | QE-Osei |
-| Due Date | 2026-07-05 |
-| Revised RPN | 48 — reduction of 112 points (70%) |
-| Status | Open |
-
----
-
-## Rank 6 — Connector not fully seated
-
-| | |
-|---|---|
-| Component | Wiring Harness |
-| Risk Band | HIGH |
-| RPN | 160 (S=8 × O=5 × D=4) |
-| Failure Effect | Intermittent power/signal → erratic motor behavior |
-| Potential Cause | Assembly error; connector design requires high insertion force |
-| Recommended Action | Add positive-lock connectors; add seating force verification to work instruction |
-| Owner | QE-Torres |
-| Due Date | 2026-06-19 |
-| Revised RPN | 48 — reduction of 112 points (70%) |
-| Status | In Progress |
-
----
-
-## Rank 7 — Intermittent connection
+## Rank 4 — Intermittent connection
 
 | | |
 |---|---|
@@ -129,7 +69,7 @@
 
 ---
 
-## Rank 8 — Loose contact
+## Rank 5 — Loose contact
 
 | | |
 |---|---|
@@ -143,6 +83,57 @@
 | Due Date | 2026-06-26 |
 | Revised RPN | 72 — reduction of 88 points (55%) |
 | Status | Open |
+
+---
+
+## Rank 6 — Delamination
+
+| | |
+|---|---|
+| Component | Propeller |
+| Risk Band | HIGH |
+| RPN | 160 (S=8 × O=4 × D=5) |
+| Failure Effect | Loss of aerodynamic profile → thrust asymmetry |
+| Potential Cause | CFRP layup defect; moisture ingress during storage |
+| Recommended Action | Add C-scan to receiving AQL plan for CFRP propellers; improve storage spec |
+| Owner | QE-Osei |
+| Due Date | 2026-07-05 |
+| Revised RPN | 48 — reduction of 112 points (70%) |
+| Status | Open |
+
+---
+
+## Rank 7 — Firmware mismatch
+
+| | |
+|---|---|
+| Component | Electronic Speed Controller |
+| Risk Band | HIGH |
+| RPN | 160 (S=8 × O=5 × D=4) |
+| Failure Effect | Motor runs at wrong speed profile → unstable flight |
+| Potential Cause | Firmware version not validated against motor/FC combination |
+| Recommended Action | Lock firmware version in build traveler; add version check to EOL script |
+| Owner | QE-Osei |
+| Due Date | 2026-06-19 |
+| Revised RPN | 32 — reduction of 128 points (80%) |
+| Status | In Progress |
+
+---
+
+## Rank 8 — Connector not fully seated
+
+| | |
+|---|---|
+| Component | Wiring Harness |
+| Risk Band | HIGH |
+| RPN | 160 (S=8 × O=5 × D=4) |
+| Failure Effect | Intermittent power/signal → erratic motor behavior |
+| Potential Cause | Assembly error; connector design requires high insertion force |
+| Recommended Action | Add positive-lock connectors; add seating force verification to work instruction |
+| Owner | QE-Torres |
+| Due Date | 2026-06-19 |
+| Revised RPN | 48 — reduction of 112 points (70%) |
+| Status | In Progress |
 
 ---
 

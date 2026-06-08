@@ -1,0 +1,384 @@
+ID,Area,Issue,Action,Owner,Due Date,Status,Priority,Source
+NCR-0106,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-06 00:00:00,Verification Pending,300,NCR
+NCR-0166,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-06 00:00:00,Verification Pending,300,NCR
+NCR-0281,PROP-003,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-07 00:00:00,CAPA Open,300,NCR
+NCR-0010,PROP-003,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0315,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-07 00:00:00,Verification Pending,300,NCR
+NCR-0132,PROP-003,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0072,PROP-003,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0125,PROP-003,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0065,PROP-003,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0003,PROP-003,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-06 00:00:00,CAPA Open,300,NCR
+NCR-0044,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-06 00:00:00,Verification Pending,300,NCR
+NCR-0274,PROP-003,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-07 00:00:00,CAPA Open,300,NCR
+1,Motor,Bearing seizure,Add bearing inspection step at motor install; specify grease type in BOM,QE-Torres,2026-07-05,In Progress,225,FMEA
+NCR-0250,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0248,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0245,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0244,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0243,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0242,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0241,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0271,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0270,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0249,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0150,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0090,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0138,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0078,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0263,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0262,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0261,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0260,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0004,ESC-002,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0258,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0257,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0256,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0028,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0299,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-12 00:00:00,Containment Pending,200,NCR
+NCR-0126,ESC-002,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0066,ESC-002,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0269,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0275,ESC-002,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0259,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0252,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0251,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0222,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0221,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0220,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0219,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0217,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0216,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0266,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0213,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0212,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0211,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0210,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0209,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0208,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0239,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0238,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0215,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0268,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0267,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0265,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0264,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0236,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0235,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0234,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0232,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0253,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0230,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0229,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0228,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0227,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0226,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0225,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0224,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0255,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0231,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0075,WHAR-005,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0035,MOTOR-004,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0013,WHAR-005,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0306,MOTOR-004,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-12 00:00:00,Containment Complete,200,NCR
+NCR-0284,WHAR-005,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0159,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Verification Pending,200,NCR
+NCR-0099,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Verification Pending,200,NCR
+NCR-0069,MOTOR-004,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0308,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-12 00:00:00,Verification Pending,200,NCR
+NCR-0163,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Open,200,NCR
+NCR-0103,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Open,200,NCR
+NCR-0041,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Open,200,NCR
+NCR-0312,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,Open,200,NCR
+NCR-0002,ESC-002,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0273,ESC-002,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0158,PROP-003,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0037,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Verification Pending,200,NCR
+NCR-0139,MOTOR-004,Dimensional Out-of-Tolerance,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0131,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0079,MOTOR-004,Dimensional Out-of-Tolerance,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0071,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0017,MOTOR-004,Dimensional Out-of-Tolerance,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0009,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0288,MOTOR-004,Dimensional Out-of-Tolerance,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0280,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-12 00:00:00,Containment Complete,200,NCR
+NCR-0097,MOTOR-004,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0101,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0039,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0310,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,Containment Complete,200,NCR
+NCR-0148,WING-007,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0088,WING-007,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0026,WING-007,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0137,BCON-006,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0135,WHAR-005,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0161,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0123,MOTOR-004,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0063,MOTOR-004,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0001,MOTOR-004,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0272,MOTOR-004,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0124,ESC-002,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0064,ESC-002,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0143,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0098,PROP-003,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0021,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0292,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0129,MOTOR-004,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0237,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0007,MOTOR-004,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0278,MOTOR-004,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0036,PROP-003,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0307,PROP-003,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,Containment Complete,200,NCR
+NCR-0083,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0144,PROP-003,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0084,PROP-003,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0022,PROP-003,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0293,PROP-003,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0168,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0108,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0046,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0317,MMB-001,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,RCA Pending,200,NCR
+NCR-0294,WING-007,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0287,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0153,ESC-002,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Open,200,NCR
+NCR-0093,ESC-002,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Open,200,NCR
+NCR-0031,ESC-002,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,Open,200,NCR
+NCR-0302,ESC-002,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-12 00:00:00,Open,200,NCR
+NCR-0145,WING-007,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0085,WING-007,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0023,WING-007,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0016,MMB-001,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0381,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0380,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0379,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0378,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0377,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0376,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0347,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0207,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0345,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0344,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0343,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0342,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0341,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0340,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0339,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0338,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0346,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0398,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0397,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0394,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0393,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0392,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0391,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0390,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0388,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0383,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0360,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0359,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0358,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0357,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0356,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0354,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0353,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0384,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0361,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0286,BCON-006,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0141,PROP-003,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0081,PROP-003,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0019,PROP-003,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,RCA Pending,200,NCR
+NCR-0297,WING-007,Electrical Short,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-12 00:00:00,Containment Pending,200,NCR
+NCR-0133,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0073,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0011,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0337,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0146,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0086,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0024,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0336,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0335,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0290,PROP-003,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,RCA Pending,200,NCR
+NCR-0334,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0157,MOTOR-004,Connector Misalignment,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Containment Complete,200,NCR
+NCR-0282,MMB-001,Insulation Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,Containment Complete,200,NCR
+NCR-0368,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0366,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0365,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0364,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0362,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0333,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0332,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Containment Pending,200,NCR
+NCR-0295,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-12 00:00:00,Containment Pending,200,NCR
+NCR-0015,BCON-006,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0080,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0018,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0289,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0352,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0351,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0350,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0349,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0348,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0140,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0190,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0189,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0188,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0187,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0186,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0185,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0184,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0183,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0399,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0061,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0421,MMB-001,Dimensional Out-of-Tolerance,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0420,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0419,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0418,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0059,MMB-001,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0330,MMB-001,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,Containment Pending,200,NCR
+NCR-0416,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0062,MMB-001,FLATNESS_A,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0417,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0077,BCON-006,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0205,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0204,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0203,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0202,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0201,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0200,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0191,MMB-001,HOLE_DIAMETER,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0198,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0197,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0196,MMB-001,MOTOR_BORE_PERP,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0195,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0194,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0193,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0192,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0401,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0199,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-11 00:00:00,Open,200,NCR
+NCR-0285,ESC-002,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0130,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0127,BCON-006,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0070,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0067,BCON-006,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0008,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0005,BCON-006,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0279,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-12 00:00:00,CAPA Open,200,NCR
+NCR-0415,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0121,MMB-001,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0375,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0374,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0373,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0371,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0370,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0369,MMB-001,HOLE_3_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0400,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0181,MMB-001,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,Containment Pending,200,NCR
+NCR-0414,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0413,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0412,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0411,MMB-001,HOLE_1_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0410,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0409,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0408,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0407,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0014,ESC-002,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0405,MMB-001,HOLE_2_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0404,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0402,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0387,MMB-001,OPP_FACE_PARALLELISM,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0386,MMB-001,MOUNTING_FACE_FLATNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0385,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+NCR-0136,ESC-002,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0076,ESC-002,Surface Finish,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-11 00:00:00,CAPA Open,200,NCR
+NCR-0406,MMB-001,HOLE_4_POSITION,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-14 00:00:00,Open,200,NCR
+22,Wiring Harness,Wire chafing,Add grommets/abrasion sleeves at all frame contact points; add to inspection checklist,QE-Patel,2026-06-26,Open,180,FMEA
+16,Motor Mount Bracket,Hole position out of tolerance,Tighten AQL from 1.0 to 0.4 for hole position; add SPC on CNC fixture,QE-Torres,2026-06-26,In Progress,175,FMEA
+21,Wiring Harness,Connector not fully seated,Add positive-lock connectors; add seating force verification to work instruction,QE-Torres,2026-06-19,In Progress,160,FMEA
+12,Propeller,Delamination,Add C-scan to receiving AQL plan for CFRP propellers; improve storage spec,QE-Osei,2026-07-05,Open,160,FMEA
+6,Electronic Speed Controller,Firmware mismatch,Lock firmware version in build traveler; add version check to EOL script,QE-Osei,2026-06-19,In Progress,160,FMEA
+25,Wiring Harness,Intermittent connection,Add crimp pull-test to receiving inspection; specify vibration-resistant crimp termination,QE-Osei,2026-07-05,In Progress,160,FMEA
+27,Battery Connector,Loose contact,Add mating cycle tracker to battery swap log; replace connectors at spec limit,QE-Patel,2026-06-26,Open,160,FMEA
+7,Electronic Speed Controller,Thermal shutdown,Add 10°C thermal margin to ESC mounting design; validate in thermal chamber,QE-Torres,2026-07-05,In Progress,144,FMEA
+13,Propeller,Incorrect pitch installed,Add pitch laser-etch marking; implement scan-to-verify at assembly,QE-Patel,2026-06-15,Complete,140,FMEA
+9,Electronic Speed Controller,Solder joint failure,Increase x-ray sample rate to 20%; add thermal cycle screen,QE-Nguyen,2026-06-26,Open,140,FMEA
+4,Motor,Motor overheating,Add thermal derating curve to motor spec; test at max load,QE-Torres,2026-07-20,Open,128,FMEA
+20,Motor Mount Bracket,Incorrect material lot,Add 100% PMI scan at receiving inspection for motor mount brackets,QE-Osei,2026-06-19,In Progress,120,FMEA
+33,Thermal Interface Material,Incorrect thickness applied,Add shim template for TIM application; add thickness check with feeler gauge,QE-Nguyen,2026-06-19,Open,120,FMEA
+8,Electronic Speed Controller,Signal loss,Add locking connector on ESC signal line; vibration test at system level,QE-Patel,2026-06-26,In Progress,120,FMEA
+5,Motor,Incorrect motor installed,Implement barcode scan verification at motor installation station,QE-Brooks,2026-06-15,Complete,120,FMEA
+11,Propeller,Crack,Add dye-penetrant inspection to receiving; torque limiter on installation tool,QE-Torres,2026-06-19,In Progress,120,FMEA
+24,Wiring Harness,Insulation damage,Add insulation damage to receiving inspection AQL; improve packaging spec,QE-Brooks,2026-06-26,Open,112,FMEA
+32,Fasteners,Wrong fastener grade installed,Implement kitting by job traveler; add grade stamp requirement to fastener spec,QE-Patel,2026-06-26,Open,112,FMEA
+2,Motor,Rotor imbalance,Implement dynamic balance check at motor receiving inspection,QE-Patel,2026-06-26,In Progress,112,FMEA
+NCR-0155,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0095,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0142,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0304,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-19 00:00:00,Containment Pending,100,NCR
+NCR-0033,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0303,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-19 00:00:00,Open,100,NCR
+NCR-0313,MMB-001,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-19 00:00:00,Open,100,NCR
+NCR-0042,MMB-001,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Open,100,NCR
+NCR-0104,MMB-001,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Open,100,NCR
+NCR-0006,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0367,MMB-001,SLOT_WIDTH,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0363,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0355,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0382,MMB-001,SLOT_WIDTH,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0372,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0396,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0032,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Open,100,NCR
+NCR-0082,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0164,MMB-001,Wrong Material Cert,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Open,100,NCR
+NCR-0094,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Open,100,NCR
+NCR-0154,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Patel,2026-06-18 00:00:00,Open,100,NCR
+NCR-0025,MMB-001,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0034,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-18 00:00:00,Containment Complete,100,NCR
+NCR-0296,MMB-001,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-19 00:00:00,CAPA Open,100,NCR
+NCR-0305,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-19 00:00:00,Containment Complete,100,NCR
+NCR-0233,MMB-001,SLOT_WIDTH,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0214,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0218,MMB-001,SLOT_WIDTH,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0223,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0206,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0403,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0087,MMB-001,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0096,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-18 00:00:00,Containment Complete,100,NCR
+NCR-0147,MMB-001,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Nguyen,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0156,MOTOR-004,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Brooks,2026-06-18 00:00:00,Containment Complete,100,NCR
+NCR-0291,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-19 00:00:00,CAPA Open,100,NCR
+NCR-0020,WHAR-005,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0240,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0246,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0247,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0254,MMB-001,BRACKET_THICKNESS,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,Open,100,NCR
+NCR-0134,ESC-002,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0089,WING-007,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0298,WING-007,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-19 00:00:00,RCA Pending,100,NCR
+NCR-0027,WING-007,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0149,WING-007,Delamination,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0074,ESC-002,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,CAPA Open,100,NCR
+NCR-0283,ESC-002,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-19 00:00:00,CAPA Open,100,NCR
+NCR-0395,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0389,MMB-001,OUTER_PROFILE,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-21 00:00:00,Open,100,NCR
+NCR-0277,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-19 00:00:00,RCA Pending,100,NCR
+NCR-0119,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0179,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0057,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,Containment Pending,100,NCR
+NCR-0068,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0328,MMB-001,Solder Joint Failure,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-19 00:00:00,Containment Pending,100,NCR
+NCR-0128,BCON-006,Documentation Missing,"Complete containment, RCA, disposition, and CAPA decision",QE-Osei,2026-06-18 00:00:00,RCA Pending,100,NCR
+NCR-0012,ESC-002,Thread Damage,"Complete containment, RCA, disposition, and CAPA decision",QE-Torres,2026-06-18 00:00:00,CAPA Open,100,NCR
+30,Battery Connector,Contamination at contact surface,Add connector cap/plug until mating; add cleaning step to assembly SOP,QE-Osei,2026-06-26,Open,96,FMEA
+35,Wiring Harness,Over-length wire routing,Add wire length to BOM; add wire-to-prop clearance check to EOL inspection,QE-Osei,2026-06-12,In Progress,90,FMEA
+26,Battery Connector,Voltage drop,Add contact resistance measurement to receiving AQL,QE-Torres,2026-06-19,In Progress,84,FMEA
+31,Fasteners,Under-torque on critical joint,Add digital torque tool with data logging; flag out-of-spec torques in real time,QE-Torres,2026-06-19,In Progress,84,FMEA
+28,Battery Connector,Thermal damage,Uprate connector to next ampacity class; add thermal fuse in line,QE-Nguyen,2026-06-19,In Progress,81,FMEA
+17,Motor Mount Bracket,Crack at mounting feature,Add stress-relief radius to design; specify 7075-T6 only in BOM,QE-Patel,2026-06-19,In Progress,81,FMEA
+3,Motor,Winding insulation failure,Require 100% hi-pot test at supplier; add thermal shock screen,QE-Nguyen,2026-06-19,In Progress,81,FMEA
+29,Battery Connector,Reverse polarity risk,Replace with asymmetric keyed connector to physically prevent reverse polarity,QE-Brooks,2026-06-12,Complete,80,FMEA
+19,Motor Mount Bracket,Fastener interface wear,Specify thread insert (Helicoil) for high-cycle fastener interfaces,QE-Brooks,2026-07-05,Open,80,FMEA
+18,Motor Mount Bracket,Flatness failure,Add stress-relief annealing step to manufacturing router,QE-Nguyen,2026-06-26,Complete,72,FMEA
+23,Wiring Harness,Incorrect pinout,Add polarized connector shrouds; implement spin-direction check in EOL software,QE-Nguyen,2026-06-15,Complete,63,FMEA
+34,Thermal Interface Material,Dry-out / delamination over thermal cycles,Upgrade to phase-change TIM; add thermal cycle qualification test,QE-Brooks,2026-07-05,Open,60,FMEA
+10,Electronic Speed Controller,Incorrect calibration,Add mandatory calibration step with pass/fail criteria to build traveler,QE-Brooks,2026-06-12,Complete,54,FMEA
+15,Propeller,Surface damage,Add foam-lined storage trays; inspect immediately before installation,QE-Nguyen,2026-06-19,Open,48,FMEA
+14,Propeller,Loose attachment,Use torque-indicating fasteners; add torque verification to build record,QE-Brooks,2026-06-12,Complete,40,FMEA

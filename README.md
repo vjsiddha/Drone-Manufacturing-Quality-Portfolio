@@ -1,127 +1,318 @@
-# Drone Manufacturing Quality Engineering Portfolio
+# AeroQMS – Quality Detective
 
-A connected 4-project system simulating a complete manufacturing quality lifecycle for an autonomous delivery drone. Each project represents a real workflow stage — risk assessment, dimensional inspection, non-conformance management, and quality analytics — and feeds data into the next.
+AeroQMS is an integrated manufacturing quality investigation platform for a drone manufacturing environment. It helps quality engineers move from a suspected issue to evidence review, formal investigation, corrective action, and verification.
+
+Instead of acting like four separate dashboards, AeroQMS connects the full quality lifecycle:
+
+```text
+Risk Intelligence → Evidence Review → Case Management → Verification & Monitoring
+```
 
 ---
 
-## The Problem This Solves
+## What This Project Is
 
-Manufacturing quality teams struggle to connect their tools. FMEA lives in a spreadsheet. Inspection data sits in a CMM export. NCRs are tracked in email. Metrics are pulled manually into PowerPoint the night before a review.
+AeroQMS simulates a real Quality Management System used by manufacturing and quality engineering teams.
 
-This portfolio builds the integrated system that replaces that workflow.
+It combines:
+
+- FMEA risk analysis
+- GD&T inspection verification
+- NCR and CAPA management
+- Root cause analysis
+- Supplier quality feedback
+- SPC and production analytics
+
+The system is positioned as a **Quality Detective** assistant: a tool that helps engineers investigate quality problems using connected manufacturing data.
+
+---
+
+## Why This Is Needed
+
+Quality engineers often work with disconnected systems:
+
+- FMEA files are stored separately from inspection records
+- Inspection failures are manually converted into NCRs
+- NCRs and CAPAs are tracked in separate tools
+- Supplier issues are hard to connect to production defects
+- SPC data is reviewed after the fact instead of being tied to investigations
+
+This makes it difficult to answer important questions quickly:
+
+- Where did the issue start?
+- Was this risk already known?
+- What evidence proves the failure?
+- Does this require an NCR or CAPA?
+- What corrective action was taken?
+- Did the process actually improve?
+
+AeroQMS solves this by connecting each step into one investigation workflow.
+
+---
+
+## What It Solves
+
+AeroQMS helps quality teams:
+
+- Identify high-risk failure modes before production
+- Evaluate inspection evidence against engineering requirements
+- Generate draft NCRs from failed GD&T features
+- Manage investigation cases through containment, RCA, CAPA, and closure
+- Track supplier quality issues
+- Monitor process health using FPY, defect rate, Cp, Cpk, and SPC trends
+- Verify whether corrective actions were effective
+
+---
+
+## How It Works
+
+A user starts with a quality concern, such as:
+
+```text
+Hole position failure on MMB-001, LOT-203
+```
+
+AeroQMS guides the user through the investigation:
+
+```text
+1. Risk Intelligence
+   Review FMEA risks, RPN scores, known failure modes, and mitigation plans.
+
+2. Evidence Review
+   Run GD&T inspection checks, analyze true position error, review failed features,
+   and generate draft NCR records.
+
+3. Case Management
+   Import draft NCRs, open investigation cases, assign containment, perform RCA,
+   create CAPAs, and generate 8D reports.
+
+4. Verification & Monitoring
+   Review production KPIs, supplier quality, SPC charts, Cp/Cpk, and improvement trends
+   to verify whether the fix worked.
+```
 
 ---
 
 ## System Architecture
 
+```text
+AeroQMS – Quality Detective
+│
+├── app.py
+│   └── Main Streamlit application and Quality Detective homepage
+│
+├── modules/
+│   │
+│   ├── fmea/
+│   │   └── Risk Intelligence Center
+│   │       ├── FMEA table
+│   │       ├── RPN calculations
+│   │       ├── Top risk ranking
+│   │       ├── Mitigation planner
+│   │       └── FMEA reports
+│   │
+│   ├── inspection/
+│   │   └── Evidence Review Center
+│   │       ├── GD&T inspection engine
+│   │       ├── True position calculations
+│   │       ├── Failure analysis
+│   │       ├── Inspection report generation
+│   │       └── Draft NCR generation
+│   │
+│   ├── ncr_capa/
+│   │   └── Case Management Center
+│   │       ├── NCR database
+│   │       ├── Draft NCR import
+│   │       ├── Case detail and disposition
+│   │       ├── CAPA creation
+│   │       ├── 5 Why analysis
+│   │       ├── Fishbone analysis
+│   │       ├── 8D reports
+│   │       └── Supplier feedback reports
+│   │
+│   ├── dashboard/
+│   │   └── Verification & Monitoring Center
+│   │       ├── Production analytics
+│   │       ├── Supplier scorecards
+│   │       ├── NCR/CAPA analytics
+│   │       ├── SPC monitoring
+│   │       ├── Cp/Cpk analysis
+│   │       └── Continuous improvement tracking
+│   │
+│   └── common/
+│       ├── shared paths
+│       └── shared UI helpers
+│
+├── data/
+│   ├── propulsion_fmea.csv
+│   ├── propulsion_fmea.xlsx
+│   ├── inspection_requirements.yaml
+│   ├── sample_measurements.csv
+│   ├── inspection_results.csv
+│   ├── draft_ncrs.csv
+│   ├── ncr_capa.db
+│   ├── ncr_records.csv
+│   ├── production_records.csv
+│   ├── inspection_records.csv
+│   ├── suppliers.csv
+│   ├── parts.csv
+│   └── spc_measurements.csv
+│
+└── reports/
+    ├── inspection_report.md
+    ├── fmea_summary_report.md
+    ├── top_10_risks.md
+    ├── recommended_actions.md
+    ├── ncr_reports/
+    ├── capa_reports/
+    └── dashboard_exports/
 ```
-FMEA (Project 1)
-Identifies high-risk failure modes → defines what to inspect for
-        ↓
-GD&T Inspection System (Project 2)
-Measures parts against engineering requirements → auto-generates NCRs on failure
-        ↓
-NCR / CAPA System (Project 3)
-Manages investigation, root cause, corrective action, and closure
-        ↓
-Quality Analytics Dashboard (Project 4)
-Tracks FPY, defect trends, supplier scores, NCR aging, and COPQ
+
+---
+
+## Data Flow
+
+```text
+FMEA risk data
+      ↓
+Risk Intelligence Center
+      ↓
+Inspection requirements and measurement data
+      ↓
+Evidence Review Center
+      ↓
+Failed features generate draft NCRs
+      ↓
+Case Management Center
+      ↓
+NCRs trigger RCA, CAPA, supplier feedback, and 8D reports
+      ↓
+Verification & Monitoring Center
+      ↓
+SPC, FPY, defect rate, supplier quality, and CAPA effectiveness are reviewed
 ```
 
 ---
 
-## Projects
+## Main Features
 
-### 01 — Drone Propulsion System FMEA
-`01_risk_assessment_fmea/`
+### Risk Intelligence Center
 
-Hybrid design + process FMEA covering 8 propulsion components and 35 failure modes. Outputs color-coded Excel workbook with RPN scoring, top-10 risk ranking, and before/after mitigation comparison.
+- FMEA risk register
+- Severity, occurrence, detection scoring
+- RPN calculation
+- Top risk prioritization
+- Risk heatmaps
+- Mitigation tracking
+- Risk reports
 
-**Key numbers:** 35 failure modes · avg RPN 113 → 38 after mitigation · 66% risk reduction
+### Evidence Review Center
 
-**Skills:** FMEA · RPN · Risk prioritization · Corrective action planning
+- GD&T inspection evaluation
+- True position error calculation
+- Feature-level pass/fail results
+- Failure analysis by feature, lot, and GD&T type
+- Technical evidence tables
+- Inspection report generation
+- Draft NCR generation
+
+### Case Management Center
+
+- NCR creation and tracking
+- Draft NCR import from inspection failures
+- Case detail and disposition updates
+- CAPA creation
+- Root cause analysis
+- 5 Why analysis
+- Fishbone analysis
+- 8D report generation
+- Supplier case feedback reports
+
+### Verification & Monitoring Center
+
+- First Pass Yield tracking
+- Defect rate tracking
+- Scrap and rework analytics
+- Supplier quality scorecards
+- NCR/CAPA analytics
+- SPC control charts
+- Cp and Cpk calculations
+- Continuous improvement backlog
 
 ---
 
-### 02 — Automated GD&T Inspection System
-`02_inspection_verification/`
+## Quality Engineering Concepts Demonstrated
 
-Python inspection engine that reads CMM-style measurement data, evaluates 11 GD&T features against engineering requirements, determines part disposition, and auto-generates draft NCRs for every failure. Built as a 5-page Streamlit app.
-
-**Key numbers:** 11 features · 50 parts · 5 lots · 89 draft NCRs auto-generated · LOT-203 bad-lot scenario included
-
-**Skills:** GD&T · True position math · Flatness/parallelism/perpendicularity · Automated reporting · Python
-
----
-
-### 03 — NCR / CAPA Management System
-`03_quality_management_system/`
-
-Full non-conformance lifecycle tool. Imports draft NCRs from the inspection system, supports disposition workflow, 5-Why and fishbone RCA, CAPA tracking, and generates 8D reports. Backed by SQLite. Built as an 8-page Streamlit app.
-
-**Key numbers:** 60 seeded NCRs · 20 CAPAs · Full 8D report generation · Closure blocked unless all required fields complete
-
-**Skills:** NCR management · CAPA · 5-Why · Fishbone · 8D · Disposition workflow · SQLite
-
----
-
-### 04 — Manufacturing Quality Dashboard
-`04_quality_analytics_dashboard/`
-
-Executive-facing Streamlit dashboard tracking production quality across 10,000+ synthetic records. Five pages covering KPIs, defect Pareto, supplier scorecards, station performance, and NCR analytics. Includes Cpk.
-
-**Key numbers:** 10,000 inspection records · 3,000 production records · 500 NCRs · 10 suppliers scored A–D
-
-**Skills:** FPY · Cpk · Defect Pareto · Supplier quality · COPQ · Streamlit · Plotly · Pandas
+- FMEA
+- RPN
+- GD&T inspection
+- True position calculation
+- NCR management
+- CAPA management
+- Root Cause Analysis
+- 5 Why
+- Fishbone diagram logic
+- 8D reporting
+- Supplier quality management
+- SPC
+- Cp/Cpk
+- First Pass Yield
+- Scrap and rework tracking
+- Continuous improvement
 
 ---
 
-## Running the Projects
+## How To Run The Project
 
-Each project is self-contained. Install dependencies and run:
+### 1. Clone the repository
 
 ```bash
-# Project 1 — FMEA (generates Excel + markdown reports)
-cd 01_risk_assessment_fmea
-pip install -r requirements.txt
-python generate_fmea.py
+git clone https://github.com/your-username/Drone-Manufacturing-Quality-Portfolio.git
+cd Drone-Manufacturing-Quality-Portfolio
+```
 
-# Project 2 — GD&T Inspection (Streamlit app)
-cd 02_inspection_verification
-pip install -r requirements.txt
-python generate_measurements.py
-streamlit run app.py
+### 2. Create a virtual environment
 
-# Project 3 — NCR/CAPA System (Streamlit app)
-cd 03_quality_management_system
-pip install -r requirements.txt
-python seed_data.py
-streamlit run app.py
+```bash
+python -m venv venv
+```
 
-# Project 4 — Quality Dashboard (Streamlit app)
-cd 04_quality_analytics_dashboard
+Activate it:
+
+```bash
+# Windows
+venv\Scripts\activate
+```
+
+```bash
+# macOS/Linux
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
-python generate_data.py
+```
+
+### 4. Run the Streamlit app
+
+```bash
 streamlit run app.py
+```
+
+### 5. Open the local app
+
+Streamlit will provide a local URL similar to:
+
+```text
+http://localhost:8501
 ```
 
 ---
 
-## Key Quality Engineering Concepts Demonstrated
+## Project Purpose
 
-| Concept | Where |
-|---------|-------|
-| FMEA / RPN | Project 1 |
-| GD&T (position, flatness, parallelism, perpendicularity, profile) | Project 2 |
-| True position formula: `2√(dx² + dy²)` | Project 2 |
-| NCR disposition workflow | Project 3 |
-| 5-Why root cause analysis | Project 3 |
-| Fishbone (Ishikawa) analysis | Project 3 |
-| 8D problem solving | Project 3 |
-| First Pass Yield | Projects 3, 4 |
-| Cpk process capability | Project 4 |
-| Supplier scorecard (A–D grading) | Project 4 |
-| Cost of Poor Quality | Project 4 |
-| Defect Pareto | Project 4 |
+This project demonstrates how quality engineering workflows can be connected into a single digital platform.
 
----
+AeroQMS shows how manufacturing quality teams can move beyond disconnected spreadsheets and dashboards toward an integrated system that supports investigation, traceability, corrective action, and continuous improvement.
